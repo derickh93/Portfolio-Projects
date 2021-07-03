@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Derick\'s Matching Game</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_Reset">Reset</string>
+    <string name="easy_Name">Derick\'s Matching Game -- Easy</string>
+    <string name="hard_Name">Derick\'s Matching Game -- Hard</string>
+    <string name="strGameReset">GAME RESET</string>
+    <string name="strComplete">LEVEL COMPLETE
+    NOW ON HARD LEVEL</string>
+
+    <string name="strCompleteHard">LEVEL COMPLETE
+    Game Finished Reset to Play Again</string>
+
+    <string name="strFloatingButton">    Derick Hansraj
+    N00827531@students.ncc.edu</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+
+</resources>

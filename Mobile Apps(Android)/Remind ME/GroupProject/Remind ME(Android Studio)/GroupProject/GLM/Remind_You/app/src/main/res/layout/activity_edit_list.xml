@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".EditListActivity">
+
+    <TextView
+        android:id="@+id/in_name"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="2dp"
+        android:layout_marginLeft="2dp"
+        android:layout_marginTop="32dp"
+        android:hint="List Name" />
+
+    <Button
+        android:id="@+id/editList"
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/in_name"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="25dp"
+        android:layout_marginEnd="36dp"
+        android:text="Delete Reminders" />
+
+    <ListView
+        android:id="@+id/listView5"
+        android:layout_width="match_parent"
+        android:layout_height="319dp"
+        android:layout_below="@+id/editList"
+        android:layout_marginTop="1dp">
+
+    </ListView>
+
+    <AutoCompleteTextView
+        android:id="@+id/addReminder"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/listView5"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="2dp"
+        android:layout_marginLeft="2dp"
+        android:layout_marginTop="32dp"
+        android:hint="Search Reminder" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id = "@+id/image_type"
+        android:layout_alignTop="@+id/addReminder"
+        android:layout_alignBottom="@+id/addReminder"
+        android:layout_alignRight="@+id/addReminder"
+        android:src = "@mipmap/baseline_keyboard_arrow_down_black_18dp"
+        />
+
+    <Button
+        android:id="@+id/addToList"
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/listView5"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="25dp"
+        android:layout_marginEnd="36dp"
+        android:text="Add Reminder" />
+
+    <EditText
+        android:id="@+id/newListName"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/addReminder"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="2dp"
+        android:layout_marginLeft="2dp"
+        android:layout_marginTop="32dp"
+        android:hint="Edit List Name" />
+
+    <Button
+        android:id="@+id/saveList"
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/addToList"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="25dp"
+        android:layout_marginEnd="36dp"
+        android:text="Save" />
+
+    <Button
+        android:id="@+id/deleteList"
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/saveList"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="25dp"
+        android:layout_marginEnd="36dp"
+        android:text="Delete List" />
+
+    <Button
+        android:id="@+id/seldelAll"
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/saveList"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="25dp"
+        android:layout_marginEnd="36dp"
+        android:text="Select/Deselect All Reminders" />
+
+
+</RelativeLayout>

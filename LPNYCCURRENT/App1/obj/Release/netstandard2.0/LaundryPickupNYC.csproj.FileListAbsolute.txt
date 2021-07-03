@@ -1,0 +1,87 @@
+C:\Users\cooli\Desktop\Xamarin\App1\App1\bin\Release\netstandard2.0\LaundryPickupNYC.deps.json
+C:\Users\cooli\Desktop\Xamarin\App1\App1\bin\Release\netstandard2.0\LaundryPickupNYC.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1\bin\Release\netstandard2.0\ref\LaundryPickupNYC.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1\bin\Release\netstandard2.0\LaundryPickupNYC.pdb
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\LaundryPickupNYC.csprojAssemblyReference.cache
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\LaundryPickupNYC.Resource1.resources
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\LaundryPickupNYC.csproj.GenerateResource.cache
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\AppShellLogged.xaml.g.cs
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\ContactPopup.xaml.g.cs
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\DryCleanPopup.xaml.g.cs
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\InvoiceDetails.xaml.g.cs
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\LaundryDryPopup.xaml.g.cs
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\LaundryPopup.xaml.g.cs
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\PopupNewTaskView.xaml.g.cs
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\SaveCard.xaml.g.cs
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\Views\Address.xaml.g.cs
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\Views\AddressList.xaml.g.cs
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\Views\Booking.xaml.g.cs
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\Views\ConfirmationPage.xaml.g.cs
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\Views\Contact_US.xaml.g.cs
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\Views\CreditCardList.xaml.g.cs
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\Views\CreditCardPage.xaml.g.cs
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\Views\CurrentOrders.xaml.g.cs
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\Views\FAQ.xaml.g.cs
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\Views\Home.xaml.g.cs
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\Views\HowItWorks.xaml.g.cs
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\Views\PastOrders.xaml.g.cs
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\Views\Payment.xaml.g.cs
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\Views\Preference.xaml.g.cs
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\Views\Pricing.xaml.g.cs
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\Views\Profile.xaml.g.cs
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\Views\RegPage.xaml.g.cs
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\Views\ResetPW.xaml.g.cs
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\Views\ReviewPage.xaml.g.cs
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\Views\SplashScreen.xaml.g.cs
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\Views\Terms.xaml.g.cs
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\Views\WashnFold.xaml.g.cs
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\LaundryPickupNYC.AssemblyInfoInputs.cache
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\LaundryPickupNYC.AssemblyInfo.cs
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\LaundryPickupNYC.csproj.CoreCompileInputs.cache
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\LaundryPickupNYC.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\ref\LaundryPickupNYC.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1\obj\Release\netstandard2.0\LaundryPickupNYC.pdb
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\LaundryPickupNYC.csproj.AssemblyReference.cache
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\LaundryPickupNYC.Resource1.resources
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\LaundryPickupNYC.csproj.GenerateResource.cache
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\PopupViews\ContactPopup.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\PopupViews\DryCleanPopup.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\PopupViews\LaundryDryPopup.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\PopupViews\LaundryPopup.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\PopupViews\PopupNewTaskView.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\Shells\AppShell.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\Shells\AppShellLogged.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\Views\Address.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\Views\AddressList.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\Views\Booking.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\Views\ConfirmationPage.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\Views\Contact_US.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\Views\CreditCardList.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\Views\CreditCardPage.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\Views\CurrentOrders.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\Views\FAQ.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\Views\Home.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\Views\HowItWorks.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\Views\InvoiceDetails.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\Views\PastOrders.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\Views\Payment.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\Views\Preference.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\Views\Pricing.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\Views\Profile.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\Views\RegPage.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\Views\ResetPW.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\Views\ReviewPage.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\Views\SaveCard.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\Views\SplashScreen.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\Views\Terms.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\Views\WashnFold.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\LaundryPickupNYC.AssemblyInfoInputs.cache
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\LaundryPickupNYC.AssemblyInfo.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\LaundryPickupNYC.csproj.CoreCompileInputs.cache
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\LaundryPickupNYC.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\ref\LaundryPickupNYC.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1\obj\Release\netstandard2.0\LaundryPickupNYC.pdb

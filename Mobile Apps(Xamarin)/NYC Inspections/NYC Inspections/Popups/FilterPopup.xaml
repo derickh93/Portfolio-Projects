@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<pages:PopupPage 
+    xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                 xmlns:pages="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
+    xmlns:animations="clr-namespace:Rg.Plugins.Popup.Animations;assembly=Rg.Plugins.Popup"
+             x:Class="NYC_Inspections.Popups.FilterPopup">
+    <!--You can set an animation in the xaml file or in the csharp code behind-->
+        <pages:PopupPage.Animation>
+            <animations:ScaleAnimation 
+            PositionIn="Center"
+            PositionOut="Center"
+            ScaleIn="1.2"
+            ScaleOut="0.8"
+            DurationIn="400"
+            DurationOut="300"
+            EasingIn="SinOut"
+            EasingOut="SinIn"
+            HasBackgroundAnimation="True"/>
+        </pages:PopupPage.Animation>
+        <!--You can use any elements here which are extended from Xamarin.Forms.View-->
+        <StackLayout BackgroundColor="LightGray"
+        VerticalOptions="Center" 
+        HorizontalOptions="Center" 
+        Padding="20, 20, 20, 20">
+
+        <Picker x:Name="sortPicker" Title="Sort"
+                    TitleColor="#dfbd5c">
+        </Picker>
+            
+            
+        <Picker x:Name="cuisinePicker" Title="Cuisine"
+                    TitleColor="#dfbd5c">
+        </Picker>
+
+        <Picker x:Name="gradePicker" Title="Grade"
+                    TitleColor="#dfbd5c">
+        </Picker>
+
+        <Picker x:Name="datePicker" Title="Date"
+                    TitleColor="#dfbd5c">
+        </Picker>
+
+        <Picker x:Name="boroPicker" Title="Borough"
+                    TitleColor="#dfbd5c">
+        </Picker>
+
+        <Button Text="Cancel" Clicked="Button_Clicked_Reset" BackgroundColor="#1c2f74" TextColor="#dfbd5c" CornerRadius="100" HorizontalOptions="CenterAndExpand"/>
+
+        <Button Text="Apply Filter" Clicked="Button_Clicked_Filter" BackgroundColor="#1c2f74" TextColor="#dfbd5c" CornerRadius="100" HorizontalOptions="CenterAndExpand"/>
+
+    </StackLayout>
+    </pages:PopupPage>

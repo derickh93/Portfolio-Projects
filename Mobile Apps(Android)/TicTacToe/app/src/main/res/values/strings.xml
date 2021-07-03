@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_reset">Reset</string>
+    <string name="strX">X</string>
+    <string name="strO">O</string>
+    <string name="actionReset">Reset</string>
+    <string name="empty_Str"></string>
+    <string name="color_X">Player X Text Color</string>
+    <string name="color_O">Player O Text Color</string>
+    <string name="change_Letters">Change Letters</string>
+    <string-array name="colors_array">
+        <item>BLACK</item>
+        <item>MAGENTA</item>
+        <item>CYAN</item>
+        <item>RED</item>
+        <item>BLUE</item>
+        <item>GREEN</item>
+        <item>WHITE</item>
+        <item>YELLOW</item>
+        <item>GRAY</item>
+    </string-array>
+
+    <string-array name="letter_array">
+        <item>X and O</item>
+        <item>P and Q</item>
+        <item>Y and Z</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="str_Start">Start Game</string>
+    <string name="str_PlayerOne">Enter Player X Name:</string>
+    <string name="str_PlayerTwo">Enter Player O Name:</string>
+
+
+</resources>

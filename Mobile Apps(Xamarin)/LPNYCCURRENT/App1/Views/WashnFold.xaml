@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:LaundryPickupNYC"
+             x:Class="LaundryPickupNYC.Views.WashnFold">
+
+
+
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" BackgroundColor="white">
+            <Frame BackgroundColor="White" Padding="2" CornerRadius="0">
+                <AbsoluteLayout>
+                    <Label x:Name="pageLabel" Text="" HorizontalTextAlignment="Center" TextColor="#1c2f74" FontSize="18" AbsoluteLayout.LayoutBounds="165,5,75,75"/>
+                    <Image Source="{local:ImageResource LaundryPickupNYC.Images.logosmall.jpeg}" AbsoluteLayout.LayoutBounds="350,0,50,50"
+               HeightRequest="40" />
+                </AbsoluteLayout>
+            </Frame>
+            <StackLayout Margin="20,35,20,20">
+
+                <ListView  x:Name="listPrice" HasUnevenRows="True">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <StackLayout Orientation="Horizontal" HorizontalOptions="Fill" BackgroundColor="Olive">
+                                    <StackLayout Orientation="Vertical">
+                                        <Label Text = "{Binding Text}"/>
+                                        <Label Text = "{Binding Price}"/>
+                                    </StackLayout>
+                                </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+
+                <StackLayout Orientation="Horizontal" VerticalOptions="End">
+                    <Button Text="Place New Order" FontSize="Title" Clicked="NavigateButton_OnClicked" BackgroundColor="#1c2f74" TextColor="#dfbd5c" CornerRadius="5" BorderWidth="2" HorizontalOptions="CenterAndExpand"/>
+                </StackLayout>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

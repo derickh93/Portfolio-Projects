@@ -1,0 +1,81 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\company.jpg" />
+    <None Remove="Images\contact.png" />
+    <None Remove="Images\email.png" />
+    <None Remove="Images\filter.png" />
+    <None Remove="Images\home.png" />
+    <None Remove="Images\logo.jpg" />
+    <None Remove="Images\map.png" />
+    <None Remove="Images\NYCRestaurant_A.png" />
+    <None Remove="Images\NYCRestaurant_B.png" />
+    <None Remove="Images\NYCRestaurant_C.png" />
+    <None Remove="Images\NYCRestaurant_Closed.png" />
+    <None Remove="Images\NYCRestaurant_GP.png" />
+    <None Remove="Images\NYCRestaurant_NG.png" />
+    <None Remove="Images\reset.png" />
+    <None Remove="Images\skyline.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Images\company.jpg" />
+    <EmbeddedResource Include="Images\contact.png" />
+    <EmbeddedResource Include="Images\email.png" />
+    <EmbeddedResource Include="Images\filter.png" />
+    <EmbeddedResource Include="Images\home.png" />
+    <EmbeddedResource Include="Images\logo.jpg" />
+    <EmbeddedResource Include="Images\map.png" />
+    <EmbeddedResource Include="Images\NYCRestaurant_A.png" />
+    <EmbeddedResource Include="Images\NYCRestaurant_B.png" />
+    <EmbeddedResource Include="Images\NYCRestaurant_C.png" />
+    <EmbeddedResource Include="Images\NYCRestaurant_Closed.png" />
+    <EmbeddedResource Include="Images\NYCRestaurant_GP.png" />
+    <EmbeddedResource Include="Images\NYCRestaurant_NG.png" />
+    <EmbeddedResource Include="Images\reset.png" />
+    <EmbeddedResource Include="Images\skyline.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CSM.SodaDotNet" Version="0.10.1" />
+    <PackageReference Include="CSM.SodaDotNet.Utilities" Version="0.10.1" />
+    <PackageReference Include="MarcTron.Admob" Version="1.6.1" />
+    <PackageReference Include="Resizetizer.NT" Version="0.2.0" />
+    <PackageReference Include="Rg.Plugins.Popup" Version="2.0.0.11" />
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2012" />  
+    <PackageReference Include="Xamarin.Essentials" Version="1.6.1" />  
+    <PackageReference Include="Xamarin.Forms.Maps" Version="5.0.0.2012" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Popups\FilterPopup.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Popups\InfoPopup.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Popups\LoadingPopup.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\Contact.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\InspectionList.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\List.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\Map.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\SplashScreen.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

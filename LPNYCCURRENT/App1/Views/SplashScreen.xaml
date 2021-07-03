@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design" 
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             mc:Ignorable="d"
+             xmlns:local="clr-namespace:LaundryPickupNYC"
+             BackgroundColor="White"
+             x:Class="LaundryPickupNYC.Views.SplashScreen">
+
+    <StackLayout HorizontalOptions="Center" VerticalOptions="CenterAndExpand">
+        <!-- Place new controls here -->
+        <Image x:Name="logoimg" Source="{local:ImageResource LaundryPickupNYC.Images.logo.jpg}" HeightRequest="150" />
+        <Image Source="laundrysplash.gif" IsAnimationPlaying="{Binding IsPlaying, Mode=TwoWay}"  />
+        <Button x:Name="splashPlay"  Text="Play/pause" Clicked="Button_Clicked" BackgroundColor="white"/>
+
+    </StackLayout>
+</ContentPage>

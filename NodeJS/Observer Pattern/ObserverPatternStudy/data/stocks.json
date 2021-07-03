@@ -1,0 +1,11 @@
+[
+{"ticker": "GOOG", "name":"Alphabet Inc.", "price": 1520.74},
+{"ticker": "APPL", "name":"Apple Inc.", "price": 324.95},
+{"ticker": "AMZN", "name":"Amazon.com", "price": 2134.87},
+{"ticker": "TSLA", "name":"Tesla Inc.", "price":800.03, "volatility":0.25, "growth":0.50},
+{"ticker": "NFLX", "name":"Netflix", "price": 380.40},
+{"ticker": "CHGG", "name":"Chegg Inc.", "price": 40.08, "volatility":1, "growth": 0},
+{"ticker": "SNAP", "name":"Snap Inc.", "price": 17.56, "growth": -0.1},
+{"ticker": "AMD", "name":"Advanced Micro Devices", "price": 55.31},
+{"ticker": "VUSXX", "name":"Treasury Money Market", "price": 1, "volatility":0, "growth": 0}
+]

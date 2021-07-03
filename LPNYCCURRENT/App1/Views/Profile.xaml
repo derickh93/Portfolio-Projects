@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                          xmlns:local="clr-namespace:LaundryPickupNYC"
+             x:Class="LaundryPickupNYC.Views.Profile">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="white">
+            <Frame BackgroundColor="White" Padding="2" CornerRadius="0">
+                <AbsoluteLayout >
+                    <Label Text="Profile" HorizontalTextAlignment="Center" TextColor="#1c2f74" FontSize="18" AbsoluteLayout.LayoutBounds="165,5,75,35"/>
+                    <Image Source="{local:ImageResource LaundryPickupNYC.Images.logosmall.jpeg}" AbsoluteLayout.LayoutBounds="350,0,50,50"
+               HeightRequest="40" />
+                </AbsoluteLayout>
+            </Frame>
+            <Label Text="Name" HorizontalTextAlignment="Start" TextColor="#1c2f74" FontSize="18" Padding="10" AbsoluteLayout.LayoutBounds="165,5,75,35"/>
+            <Label x:Name="name" HorizontalTextAlignment="Start" TextColor="#1c2f74" FontSize="18" Padding="10" AbsoluteLayout.LayoutBounds="165,5,75,35"/>
+            <Label Text="Email" HorizontalTextAlignment="Start" TextColor="#1c2f74" FontSize="18" Padding="10" AbsoluteLayout.LayoutBounds="165,5,75,35"/>
+            <Label x:Name="email" HorizontalTextAlignment="Start" TextColor="#1c2f74" FontSize="18" Padding="10" AbsoluteLayout.LayoutBounds="165,5,75,35"/>
+            <Label Text="Phone" HorizontalTextAlignment="Start" TextColor="#1c2f74" FontSize="18" Padding="10" AbsoluteLayout.LayoutBounds="165,5,75,35"/>
+            <Label x:Name="phone" HorizontalTextAlignment="Start" TextColor="#1c2f74" FontSize="18" Padding="10" AbsoluteLayout.LayoutBounds="165,5,75,35"/>
+            <Button Text="Credit Cards" HorizontalOptions="Start" Clicked="credit_Button_Clicked" Padding="10" BackgroundColor="#1c2f74" TextColor="#dfbd5c" CornerRadius="100" BorderWidth="2"/>
+            <Button Text="Addresses" HorizontalOptions="Start" Clicked="address_Button_Clicked" Padding="10" BackgroundColor="#1c2f74" TextColor="#dfbd5c" CornerRadius="100" BorderWidth="2" />
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

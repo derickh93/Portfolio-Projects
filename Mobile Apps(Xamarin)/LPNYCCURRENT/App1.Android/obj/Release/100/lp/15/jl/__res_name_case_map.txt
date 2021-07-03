@@ -1,0 +1,5 @@
+drawable/Recurrence.png;drawable/recurrence.png
+drawable/arrow_down.png;drawable/arrow_down.png
+drawable/arrow_up.png;drawable/arrow_up.png
+values/Strings.xml;values/strings.xml
+values/attrs.xml;values/attrs.xml

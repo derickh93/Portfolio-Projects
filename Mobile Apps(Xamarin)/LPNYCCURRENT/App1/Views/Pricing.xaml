@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+xmlns:local="clr-namespace:LaundryPickupNYC"
+x:Class="LaundryPickupNYC.Views.Pricing">
+
+
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" BackgroundColor="white">
+            <Frame BackgroundColor="White" Padding="2" CornerRadius="0">
+                <AbsoluteLayout>
+                    <Label Text="Pricing" HorizontalTextAlignment="Center" TextColor="#1c2f74" FontSize="18" AbsoluteLayout.LayoutBounds="165,5,75,35"/>
+                    <Image Source="{local:ImageResource LaundryPickupNYC.Images.logosmall.jpeg}" AbsoluteLayout.LayoutBounds="350,0,50,50"
+               HeightRequest="40" />
+                </AbsoluteLayout>
+            </Frame>
+            <Label Text="Min Order $35.00&#x0a;Free Delivery&#x0a;No Laundry Minimum" FontSize="Title" HorizontalTextAlignment="Center" Padding="30,10,30,10" TextColor="#1c2f74"/>
+
+            <StackLayout VerticalOptions="CenterAndExpand">
+                <Label Text="Prices by Service&#x0a;&#x0a;" HorizontalTextAlignment="Start" TextColor="black" FontSize="20" AbsoluteLayout.LayoutBounds="165,5,75,35"/>
+                <Button Text="Wash &amp; Fold" ClassId="wash" Clicked="NavigateWash_OnClicked" BackgroundColor="Black" TextColor="#dfbd5c" CornerRadius="100" HorizontalOptions="StartAndExpand" BorderColor="black"/>
+                <Button Text="Dry Clean" ClassId="dry" Clicked="NavigateWash_OnClicked" BackgroundColor="Black" TextColor="#dfbd5c" CornerRadius="100" HorizontalOptions="StartAndExpand" BorderColor="black"/>
+                <Button Text="Wash and Iron" ClassId="iron" Clicked="NavigateWash_OnClicked" BackgroundColor="Black" TextColor="#dfbd5c" CornerRadius="100" HorizontalOptions="StartAndExpand" BorderColor="black"/>
+                <Button Text="Home and Bedding" ClassId="home" Clicked="NavigateWash_OnClicked" BackgroundColor="Black" TextColor="#dfbd5c" CornerRadius="100" HorizontalOptions="StartAndExpand" BorderColor="black"/>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" VerticalOptions="End" Padding="10">
+                <Button Text="Place New Order" Clicked="NavigateBook_OnClicked" BackgroundColor="#1c2f74" TextColor="#dfbd5c" CornerRadius="100" HorizontalOptions="CenterAndExpand"/>
+            </StackLayout>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,6 @@
+[
+{"ticker":"GOOG", "target_price":1800, "direction":"above"},
+{"ticker":"GOOG", "target_price":1300, "direction":"below"},
+{"ticker":"APPL", "target_price":350, "direction":"above"},
+{"ticker":"APPL", "target_price":275, "direction":"below"}
+]

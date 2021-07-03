@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.n00827531.multibuttons.MainActivity">
+    <item
+    android:id="@+id/action_settings"
+    android:orderInCategory="100"
+    android:title="@string/action_settings"
+    app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_reset"
+        android:orderInCategory="200"
+        android:title="@string/action_reset"
+        app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/color_change"
+        android:title="@string/color_change"
+        app:showAsAction="ifRoom|collapseActionView"
+        app:actionViewClass="android.widget.Spinner"
+        />
+
+    <item
+        android:id="@+id/color_spinner"
+        android:title="@string/colors_label"
+        app:showAsAction="ifRoom|collapseActionView"
+        app:actionViewClass="android.widget.Spinner"
+        />
+</menu>

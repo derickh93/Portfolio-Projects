@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LaundryAdmin.Views.Products">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Product List" FontSize="24" TextColor="Black"></Label>
+            <ListView x:Name="productList" SeparatorVisibility="Default" SeparatorColor="DarkGoldenrod">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell Text="{Binding Name}" TextColor="Purple"
+                                  Detail="{Binding Description}" DetailColor="Maroon"/>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

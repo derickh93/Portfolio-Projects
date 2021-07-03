@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Business Information"
+             x:Class="NYC_Inspections.Views.InspectionList">
+
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Name: " FontAttributes="Bold" TextColor="orange"></Label>
+                <Label x:Name="name" TextColor="orange"></Label>
+            </StackLayout>
+
+            <StackLayout Orientation="Vertical">
+                <Label Text="Address: " FontAttributes="Bold" TextColor="navy"></Label>
+                <Label x:Name="Address" TextColor="navy"></Label>
+                <Label x:Name="Boro" TextColor="navy"></Label>
+                <Label x:Name="Zip" TextColor="navy"></Label>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Food Type: " FontAttributes="Bold" TextColor="orange"></Label>
+                <Label x:Name="foodType" TextColor="orange"></Label>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Permit Number: " FontAttributes="Bold" TextColor="navy"></Label>
+                <Label x:Name="permitNumber" TextColor="navy"></Label>
+            </StackLayout>
+
+            <Image x:Name="image" HeightRequest="150"></Image>
+
+            <ListView x:Name="listRestaurants" SeparatorVisibility="Default" SeparatorColor="Black">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell Text="{Binding InspectionDateStr}" TextColor="orange"
+                                  Detail="{Binding Detail}" DetailColor="navy" />
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <ActivityIndicator x:Name="loadingSpinner" />
+
+            <Frame
+                   BorderColor="Transparent"
+                   HasShadow="True"
+                   HeightRequest="40"
+                   WidthRequest="40">
+                <Frame.Background>
+                    <!-- StartPoint defaults to (0,0)
+                         Endpoint defaults to (1,1) -->
+                    <LinearGradientBrush EndPoint="0,1">
+                        <GradientStop Color="white"
+                                      Offset="0.0" />
+                        <GradientStop Color="navy"
+                                      Offset="1.0" />
+                    </LinearGradientBrush>
+                </Frame.Background>
+            </Frame>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

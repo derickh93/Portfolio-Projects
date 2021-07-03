@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                          xmlns:local="clr-namespace:LaundryAdmin"
+             x:Class="LaundryAdmin.Views.Login">
+
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="white">
+            <Frame BackgroundColor="White" Padding="2" CornerRadius="0">
+                <AbsoluteLayout >
+                    <Label Text="Login" HorizontalTextAlignment="Center" TextColor="#1c2f74" FontSize="18" AbsoluteLayout.LayoutBounds="165,5,75,35"/>
+                </AbsoluteLayout>
+            </Frame>
+            <StackLayout Margin="20,35,20,20">
+            </StackLayout>
+            <Label Text="Laundry Pickup NYC" FontSize="Title" HorizontalTextAlignment="Center" Padding="30,10,30,10" TextColor="#1c2f74"/>
+            <Entry x:Name="UserLoginEmail" ReturnType="Next" Placeholder="Email" PlaceholderColor="Gray" TextColor="Black"/>
+            <Entry x:Name="UserLoginPassword" ReturnType="Done" Placeholder="Password" PlaceholderColor="Gray" TextColor="Black" IsPassword="true"/>
+            <Button Text="Log In" CornerRadius="100" Clicked="loginbutton_Clicked" Padding="30,10,30,10" BackgroundColor="#1c2f74" TextColor="#dfbd5c" VerticalOptions="Center" HorizontalOptions="CenterAndExpand"/>
+            <Label>Text=""</Label>
+            <Label>
+                Text=""
+            </Label>
+
+            <Label FontSize="16" Padding="30,24,30,0">
+                <Label.FormattedText>
+                    <FormattedString>
+                        <FormattedString.Spans>
+                        </FormattedString.Spans>
+                    </FormattedString>
+                </Label.FormattedText>
+            </Label>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             mc:Ignorable="d"
+             xmlns:local="clr-namespace:NYC_Inspections"
+             BackgroundColor="Black"
+             x:Class="NYC_Inspections.Views.SplashScreen">
+
+    <StackLayout HorizontalOptions="Center" VerticalOptions="CenterAndExpand">
+        <!-- Place new controls here -->
+        <Image x:Name="logoimg" Source="{local:ImageResource NYC_Inspections.Images.company.jpg}" />
+    </StackLayout>
+</ContentPage>

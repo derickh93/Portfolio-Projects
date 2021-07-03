@@ -1,0 +1,15 @@
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Projects\CHECKED\Mobile Apps(Xamarin)\Loaded\Loaded\bin\Debug\netstandard2.0\Loaded.deps.json
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Projects\CHECKED\Mobile Apps(Xamarin)\Loaded\Loaded\bin\Debug\netstandard2.0\Loaded.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Projects\CHECKED\Mobile Apps(Xamarin)\Loaded\Loaded\bin\Debug\netstandard2.0\ref\Loaded.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Projects\CHECKED\Mobile Apps(Xamarin)\Loaded\Loaded\bin\Debug\netstandard2.0\Loaded.pdb
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Projects\CHECKED\Mobile Apps(Xamarin)\Loaded\Loaded\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Projects\CHECKED\Mobile Apps(Xamarin)\Loaded\Loaded\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Projects\CHECKED\Mobile Apps(Xamarin)\Loaded\Loaded\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Projects\CHECKED\Mobile Apps(Xamarin)\Loaded\Loaded\obj\Debug\netstandard2.0\Views\SplashScreen.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Projects\CHECKED\Mobile Apps(Xamarin)\Loaded\Loaded\obj\Debug\netstandard2.0\Loaded.AssemblyInfoInputs.cache
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Projects\CHECKED\Mobile Apps(Xamarin)\Loaded\Loaded\obj\Debug\netstandard2.0\Loaded.AssemblyInfo.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Projects\CHECKED\Mobile Apps(Xamarin)\Loaded\Loaded\obj\Debug\netstandard2.0\Loaded.csproj.CoreCompileInputs.cache
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Projects\CHECKED\Mobile Apps(Xamarin)\Loaded\Loaded\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Projects\CHECKED\Mobile Apps(Xamarin)\Loaded\Loaded\obj\Debug\netstandard2.0\Loaded.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Projects\CHECKED\Mobile Apps(Xamarin)\Loaded\Loaded\obj\Debug\netstandard2.0\ref\Loaded.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Projects\CHECKED\Mobile Apps(Xamarin)\Loaded\Loaded\obj\Debug\netstandard2.0\Loaded.pdb

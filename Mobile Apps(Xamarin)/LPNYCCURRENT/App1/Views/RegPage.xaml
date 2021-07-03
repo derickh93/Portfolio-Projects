@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:LaundryPickupNYC"
+             x:Class="LaundryPickupNYC.Views.RegPage">
+
+
+
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" BackgroundColor="white">
+            <Frame BackgroundColor="White" Padding="2" CornerRadius="0">
+                <AbsoluteLayout>
+                    <Label Text="Create Account" HorizontalTextAlignment="Center" TextColor="#1c2f74" FontSize="18" AbsoluteLayout.LayoutBounds="165,5,75,45"/>
+                    <Image Source="{local:ImageResource LaundryPickupNYC.Images.logosmall.jpeg}" AbsoluteLayout.LayoutBounds="350,0,50,50"
+               HeightRequest="40" />
+                </AbsoluteLayout>
+            </Frame>
+            <StackLayout Margin="20,35,20,20">
+                <Image Source="{local:ImageResource LaundryPickupNYC.Images.logo.jpg}"
+               HeightRequest="150" />
+            </StackLayout>
+            <Label Text="Laundry Pickup NYC" FontSize="Title" HorizontalTextAlignment="Center" Padding="30,10,30,10" TextColor="#1c2f74"/>
+            <Entry x:Name="UserNewEmail" ReturnType="Next" Placeholder="Email" PlaceholderColor="Gray" TextColor="Black"/>
+            <Entry x:Name="UserNewPassword" ReturnType="Next" Placeholder="Password" PlaceholderColor="Gray" TextColor="Black" IsPassword="true"/>
+
+            <Entry x:Name="UserNewFirst" ReturnType="Next" Placeholder="First Name" PlaceholderColor="Gray" TextColor="Black" />
+            <Entry x:Name="UserNewLast" ReturnType="Next" Placeholder="Last Name" PlaceholderColor="Gray" TextColor="Black" />
+            <Entry x:Name="UserNewPhone" ReturnType="Done" Placeholder="Phone Number" PlaceholderColor="Gray" TextColor="Black"/>
+
+            <Button Text="Create Account" Clicked="signupbutton_Clicked" Padding="10" BackgroundColor="#1c2f74" TextColor="#dfbd5c" CornerRadius="100" HorizontalOptions="CenterAndExpand"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

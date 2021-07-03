@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <integer-array name="imagesArray">
+        <item>@drawable/gameimage0</item>
+        <item>@drawable/gameimage1</item>
+        <item>@drawable/gameimage2</item>
+        <item>@drawable/gameimage3</item>
+        <item>@drawable/gameimage4</item>
+        <item>@drawable/gameimage5</item>
+        <item>@drawable/gameimage6</item>
+        <item>@drawable/gameimage7</item>
+        <item>@drawable/gameimage8</item>
+        <item>@drawable/gameimage9</item>
+        <item>@drawable/gameimage0</item>
+        <item>@drawable/gameimage1</item>
+        <item>@drawable/gameimage2</item>
+        <item>@drawable/gameimage3</item>
+        <item>@drawable/gameimage4</item>
+        <item>@drawable/gameimage5</item>
+        <item>@drawable/gameimage6</item>
+        <item>@drawable/gameimage7</item>
+        <item>@drawable/gameimage8</item>
+        <item>@drawable/gameimage9</item>
+
+    </integer-array>
+
+</resources>

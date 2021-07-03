@@ -1,0 +1,107 @@
+@charset "UTF-8";
+/* CSS Document */
+body{
+	background-image: none !important;
+}
+
+.sorting .sort{
+	display: inline-block;
+	margin-top: 70px;
+}
+
+.square {
+    background: #479970;
+    width: 124vw;
+    height: 15vw;
+	margin-left: 3vw;
+	margin-right: 2vw;
+	margin-top: 2vw;
+	margin-bottom: 2vw;
+}
+
+.square img{
+	width: 15vw;
+	height: 13vw;
+	margin-top:1vw;
+	margin-left:1vw;
+	
+}
+
+.square h1{
+	position: absolute;
+	margin-top: -12vw;
+	margin-left: 2vw;
+	margin-bottom: 0vw;
+	font-size: 3vw;
+}
+
+.square h2{
+	position: absolute;
+	margin-left: 2vw;
+	margin-top: -8vw;
+	margin-bottom: 0vw;
+	font-size: 2vw;
+}
+
+.square a{
+	position: absolute;
+	margin-left: 2vw;
+	margin-top: -5.5vw;
+	font-size: 1.5vw;
+}
+
+.square .post{
+	display: inline-block;
+}
+
+.footer {
+	 position: absolute;
+	 top: 120vw;
+	 height: 150px;
+	 width: 100%;
+	 background-color: #FADDB7;
+	 z-index: 0;
+	}
+
+@media only screen and (max-width: 1300px){
+
+	.footer {
+	 position: absolute;
+	 top: 1000px;
+	 height: 150px;
+	 width: 100%;
+	 background-color: #FADDB7;
+	 z-index: 0;
+	}
+
+}
+
+.Facebook{
+	position: absolute;
+	width: 2.5%;
+	top: 50px;
+	left: 42%;
+	right: 0em;
+	bottom: 0em;
+}
+
+.Instagram{
+	position: absolute;
+	width: 2.5%;
+	top: 50px;
+	left: 48%;
+	right: 0em;
+	bottom: 0em;
+}
+
+.Twitter{
+	position: absolute;
+	width: 2.5%;
+	top: 50px;
+	left: 54%;
+	right: 0em;
+	bottom: 0em;
+}
+
+
+

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NCC Department Database</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_Dean">Dean</string>
+    <string name="str_Tower">Tower</string>
+    <string name="str_a_To_d">A-D</string>
+    <string name="str_Center">Center</string>
+    <string name="str_Search">Search</string>
+    <string name="str_ClickSearch">Click to Search</string>
+    <string name="str_Enter">Enter Department:</string> />
+</resources>

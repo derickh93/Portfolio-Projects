@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:NYC_Inspections"
+             Title="NYC Restaurant Inspections"
+             xmlns:controls="clr-namespace:MarcTron.Plugin.Controls;assembly=Plugin.MtAdmob"
+             x:Class="NYC_Inspections.Views.List">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <SearchBar x:Name="entry" Placeholder="Search restaurants" TextColor="Orange" SearchButtonPressed="Button_Clicked_Search" />
+            </StackLayout>
+
+            <StackLayout>
+                <controls:MTAdView HeightRequest="100" AdsId="ca-app-pub-1849371930325394/2720397415"/>
+
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+
+                <ImageButton Clicked="Button_Clicked_Filter" HeightRequest="30" BackgroundColor="Transparent"  Source="{local:ImageResource NYC_Inspections.Images.filter.png}" HorizontalOptions="Start" />
+                <Picker x:Name="sortPicker" Title="Sort"
+                    TitleColor="Orange" HorizontalOptions="StartAndExpand" TextColor="Orange">
+                </Picker>
+                <ImageButton Clicked="Button_Clicked_Map" HeightRequest="50" BackgroundColor="Transparent"  Source="{local:ImageResource NYC_Inspections.Images.map.png}" HorizontalOptions="CenterAndExpand" />
+
+                <ImageButton Clicked="Button_Clicked_Reset" HeightRequest="40" BackgroundColor="Transparent"  Source="{local:ImageResource NYC_Inspections.Images.reset.png}" HorizontalOptions="EndAndExpand" />
+            </StackLayout>
+            <ListView x:Name="listRestaurants" SeparatorVisibility="Default" SeparatorColor="Black">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ImageCell ImageSource="{Binding ImageUri}" Text="{Binding Dba}" TextColor="Orange"
+                                  Detail="{Binding Cuisine}" DetailColor="Navy" />
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <ActivityIndicator x:Name="loadingSpinner" />
+            <Frame
+                   BorderColor="Transparent"
+                   HasShadow="True"
+                   HeightRequest="40"
+                   WidthRequest="40">
+                <StackLayout>
+                    <Button Text="load more" BackgroundColor="Transparent"  Clicked="Button_Clicked_Load" TextColor="Orange" HorizontalOptions="Center"></Button>
+                </StackLayout>
+
+                <Frame.Background>
+                    <!-- StartPoint defaults to (0,0)
+                         Endpoint defaults to (1,1) -->
+                    <LinearGradientBrush EndPoint="0,1">
+                        <GradientStop Color="white"
+                                      Offset="0.0" />
+                        <GradientStop Color="navy"
+                                      Offset="1.0" />
+                    </LinearGradientBrush>
+                </Frame.Background>
+            </Frame>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,25 @@
+-update portfolio website cp
+	-link derickh.dev/change to
+-finish starbucks clone hw
+-finish coffee shop site
+-finish tic tac toe hw
+-customize tic tac toe
+-finish jobs hw
+-customize jobs page
+
+-synchronize all repos across pcs
+-hide apis and ensure working before uploading projects
+-create mobile app resume
+-create react resume
+-create web dev resume
+-create general resume
+-finish spotify clone
+
+
+-Checked working/comments/apis hidden:
+	Roster Management
+	-nodejs a1
+-complete mosh react-native
+-complete mosh html/css/js
+-complete mosh sql
+-complete mosh data structures and algorithms

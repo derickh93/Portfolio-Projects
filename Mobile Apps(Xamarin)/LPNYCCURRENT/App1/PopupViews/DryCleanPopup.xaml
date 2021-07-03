@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<pages:PopupPage
+    x:Class="LaundryPickupNYC.DryCleanPopup"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:animations="clr-namespace:Rg.Plugins.Popup.Animations;assembly=Rg.Plugins.Popup"
+    xmlns:pages="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup">
+    <pages:PopupPage.Animation>
+        <animations:ScaleAnimation
+            DurationIn="400"
+            DurationOut="300"
+            EasingIn="SinOut"
+            EasingOut="SinIn"
+            HasBackgroundAnimation="True"
+            PositionIn="Center"
+            PositionOut="Center"
+            ScaleIn="1.2"
+            ScaleOut="0.8" />
+    </pages:PopupPage.Animation>
+    <StackLayout
+        Margin="12"
+        Padding="24"
+        BackgroundColor="White"
+        HorizontalOptions="Center"
+        VerticalOptions="Center">
+        <StackLayout>
+            <Label Text="     Dry Clean Quantity     " TextColor="#1c2f74" FontSize="Title"/>
+        </StackLayout>
+        <StackLayout BackgroundColor="LightGray">
+            <Entry x:Name="bagsQuantity"  Placeholder="Number of items" TextColor="Black"/>
+        </StackLayout>
+        <Button
+            x:Name="TaskButton"
+            BackgroundColor="#1c2f74"
+            TextColor="#dfbd5c"
+            Clicked="Button_OnClicked"
+            CornerRadius="10"
+            FontSize="Default"
+            IsEnabled="True"
+            Text="Save"/>
+    </StackLayout>
+</pages:PopupPage>

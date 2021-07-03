@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<pages:PopupPage
+    x:Class="LaundryPickupNYC.SaveCard"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:animations="clr-namespace:Rg.Plugins.Popup.Animations;assembly=Rg.Plugins.Popup"
+    xmlns:pages="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup" xmlns:fastEntry="clr-namespace:XamarinFastEntrySample.FastEntry;assembly=XamarinFastEntry.Behaviors">
+    <pages:PopupPage.Animation>
+        <animations:ScaleAnimation
+            DurationIn="400"
+            DurationOut="300"
+            EasingIn="SinOut"
+            EasingOut="SinIn"
+            HasBackgroundAnimation="True"
+            PositionIn="Center"
+            PositionOut="Center"
+            ScaleIn="1.2"
+            ScaleOut="0.8" />
+    </pages:PopupPage.Animation>
+    <StackLayout
+        Margin="12"
+        Padding="24"
+        BackgroundColor="LightGray"
+        HorizontalOptions="Center"
+        VerticalOptions="Center">
+        <Entry HorizontalOptions="FillAndExpand"
+                               Keyboard="Text"
+                               x:Name="nameInput"
+                               ReturnType="Next"
+                               Placeholder="Name on Credit Card"
+                               TextColor="Black"
+                               Visual="Custom">
+        </Entry>
+
+        <Entry HorizontalOptions="FillAndExpand"
+                               Keyboard="Numeric"
+                               x:Name="ccInput"
+                               Placeholder="Credit Card Number"
+                               ReturnType="Next"
+                               TextColor="Black"
+                               Visual="Custom">
+            <Entry.Behaviors>
+                <fastEntry:XamarinFastEntryBehaviour Mask="####-####-####-####" 
+                                                                       MaxLength="19"/>
+            </Entry.Behaviors>
+        </Entry>
+
+        <Entry HorizontalOptions="FillAndExpand"
+                               Keyboard="Numeric"
+                               x:Name="expInput"
+                               ReturnType="Next"
+                               Placeholder="Expiration Date"
+                               TextColor="Black"
+                               Visual="Custom">
+            <Entry.Behaviors>
+                <fastEntry:XamarinFastEntryBehaviour Mask="##/##" 
+                                                                   MaxLength="19"/>
+            </Entry.Behaviors>
+        </Entry>
+
+        <Entry HorizontalOptions="FillAndExpand"
+                              Keyboard="Numeric"
+                              Placeholder="CVV"
+                              ReturnType="Next"
+                              TextColor="Black"
+                              x:Name="cvvInput"
+                              Visual="Custom">
+            <Entry.Behaviors>
+                <fastEntry:XamarinFastEntryBehaviour Mask="###" 
+                                                                   MaxLength="3"/>
+            </Entry.Behaviors>
+        </Entry>
+
+
+
+        <Entry HorizontalOptions="FillAndExpand"
+                              Keyboard="Numeric"
+                              Placeholder="Billing Zipcode"
+                              TextColor="Black"
+                              x:Name="zipInput"
+                              ReturnType="Done"
+                              Visual="Custom">
+            <Entry.Behaviors>
+                <fastEntry:XamarinFastEntryBehaviour Mask="#####" 
+                                                                   MaxLength="5"/>
+            </Entry.Behaviors>
+        </Entry>
+
+        <BoxView HorizontalOptions="FillAndExpand"
+                         Color="{StaticResource Secondary}"
+                           
+                         Visual="Default"
+                         HeightRequest="1"
+                         Margin="0,30"
+                         Grid.Row="5"
+                         Grid.Column="0"
+                         Grid.ColumnSpan="3"/>
+
+        <Button Text="Save Card"
+                         BackgroundColor="#1c2f74"
+                         Clicked="Button_Clicked"
+                         CornerRadius="26"
+                         FontSize="18"
+                         Grid.Row="6"
+                         Grid.Column="0"
+                         Grid.ColumnSpan="3"
+                         Padding="18"
+                         TextColor="White"
+                         Margin="30,0,30,30"/>
+    </StackLayout>
+</pages:PopupPage>

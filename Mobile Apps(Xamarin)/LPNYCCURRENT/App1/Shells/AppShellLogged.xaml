@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Shell xmlns="http://xamarin.com/schemas/2014/forms" 
+       xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+       xmlns:d="http://xamarin.com/schemas/2014/forms/design" 
+       xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+       xmlns:local="clr-namespace:LaundryPickupNYC.Views"
+       Title="App1" x:Class="LaundryPickupNYC.AppShellLogged"
+       
+       
+       BackgroundColor="#1c2f74"
+       ForegroundColor="#dfbd5c"
+       FlyoutIcon="">
+
+    <Shell.FlyoutHeaderTemplate>
+        <DataTemplate>
+            <Grid BackgroundColor="Black"
+              HeightRequest="200">
+                <Image Aspect="AspectFill"
+                   Source="background.jpg"
+                   Opacity="0.6" />
+                <Label Text="Laundry Pickup NYC"
+                   TextColor="#dfbd5c"
+                   FontAttributes="Bold"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center" />
+            </Grid>
+        </DataTemplate>
+    </Shell.FlyoutHeaderTemplate>
+
+    <FlyoutItem FlyoutDisplayOptions="AsMultipleItems">
+
+        <ShellSection x:Name="homeItem" Route="home" Title="HOME" Icon="home.png">
+            <ShellContent Title="HOME" Icon="home.png" ContentTemplate="{DataTemplate local:Booking}"/>
+        </ShellSection>
+
+        <ShellSection x:Name="profileItem" Route="profile" Title="PROFILE" Icon="profile.png">
+            <ShellContent Title="PROFILE" Icon="profile.png" ContentTemplate="{DataTemplate local:Profile}" />
+        </ShellSection>
+
+        <ShellSection x:Name="pricingItem" Route="price" Title="PRICE" Icon="price.png">
+            <ShellContent Title="Pricing" Icon="price.png" ContentTemplate="{DataTemplate local:Pricing}" />
+        </ShellSection>
+
+        <ShellSection x:Name="howitworksItem" Route="howitworks" Title="HOW IT WORKS" Icon="howitworks.png">
+            <ShellContent Title="How It Works" Icon="howitworks.png" ContentTemplate="{DataTemplate local:HowItWorks}" />
+        </ShellSection>
+
+        <ShellSection x:Name="faqItem" Route="faq" Title="FAQ" Icon="faq.png">
+            <ShellContent Title="FAQ" Icon="faq.png" ContentTemplate="{DataTemplate local:FAQ}" />
+        </ShellSection>
+
+        <ShellSection x:Name="termItem" Route="terms" Title="TERMS" Icon="tandc.png">
+            <ShellContent Title="TERMS" Icon="tandc.png" ContentTemplate="{DataTemplate local:Terms}" />
+        </ShellSection>
+
+        <ShellSection x:Name="contactItem" Route="contact" Title="CONTACT" Icon="contact.png">
+            <ShellContent Title="Contact Us" Icon="contact.png" ContentTemplate="{DataTemplate local:Contact_US}" />
+        </ShellSection>
+    </FlyoutItem>
+
+    <MenuItem Text="Logout" StyleClass="MenuItemLayoutStyle" Clicked="OnMenuItemClicked">
+    </MenuItem>
+</Shell>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NYC_Inspections.Views.Contact">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" BackgroundColor="white">
+            <Frame BackgroundColor="White" Padding="2" CornerRadius="0">
+                <AbsoluteLayout>
+                    <Label Text="Contact" HorizontalTextAlignment="Center" TextColor="#1c2f74" FontSize="18" AbsoluteLayout.LayoutBounds="165,5,75,35" />
+                    <Image Source="" AbsoluteLayout.LayoutBounds="350,0,50,50"
+               HeightRequest="40" />
+                </AbsoluteLayout>
+            </Frame>
+
+            <Label Text="&#x0a;&#x0a;Fill out the form to send us an email." HorizontalTextAlignment="Start" TextColor="Black" FontSize="16" AbsoluteLayout.LayoutBounds="165,5,75,35" />
+            <Picker x:Name="contactPicker"></Picker>
+            <StackLayout Orientation="Horizontal">
+                <Entry x:Name="Name" Placeholder="Name" ReturnType="Next" BackgroundColor="LightGray" WidthRequest="250" TextColor="Navy" PlaceholderColor="Orange" VerticalOptions="End"></Entry>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Entry x:Name="Email" Placeholder="Email" ReturnType="Next" BackgroundColor="LightGray" WidthRequest="250" TextColor="Navy" PlaceholderColor="Orange"></Entry>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <CheckBox CheckedChanged="OnCheckBoxCheckedChanged" Color="Navy"></CheckBox>
+                <Label Text="SEND ME A COPIED EMAIL" TextColor="Black"></Label>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Entry x:Name="Subject" ReturnType="Next" BackgroundColor="LightGray" WidthRequest="250" Placeholder="Subject" TextColor="Navy" PlaceholderColor="Orange"></Entry>
+            </StackLayout>
+            <Label Text="PLEASE USE A VALID EMAIL!" FontAttributes="Bold" TextColor="Black" HorizontalOptions="Center"></Label>
+
+            <StackLayout Orientation="Horizontal">
+                <Entry x:Name="Message" BackgroundColor="LightGray" ReturnType="Done" WidthRequest="400" Placeholder="Message" TextColor="Navy"  PlaceholderColor="Orange"></Entry>
+            </StackLayout>
+
+            <StackLayout Orientation="Vertical">
+                <Label Text="SEND EMAIL" FontAttributes="Bold" TextColor="Black" HorizontalOptions="Center"></Label>
+
+                <Image x:Name="email" Source="email.png" HeightRequest="56"  BackgroundColor="Transparent" HorizontalOptions="Center">
+                    <Image.GestureRecognizers>
+                        <TapGestureRecognizer
+                Tapped="OnImageEmailTapped"
+                NumberOfTapsRequired="1" />
+                    </Image.GestureRecognizers>
+                </Image>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

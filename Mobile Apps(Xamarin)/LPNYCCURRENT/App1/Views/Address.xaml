@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:LaundryPickupNYC"
+             xmlns:sfPopup="clr-namespace:Syncfusion.XForms.PopupLayout;assembly=Syncfusion.SfPopupLayout.XForms"
+             x:Class="LaundryPickupNYC.Views.Address">
+    <ContentPage.BindingContext>
+        <local:ViewModel />
+    </ContentPage.BindingContext>
+
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" BackgroundColor="white">
+            <Frame BackgroundColor="White" Padding="2" CornerRadius="0">
+                <AbsoluteLayout>
+                    <Label Text="Place Order" HorizontalTextAlignment="Center" TextColor="#1c2f74" FontSize="18" AbsoluteLayout.LayoutBounds="165,5,75,45"/>
+                    <Image Source="{local:ImageResource LaundryPickupNYC.Images.logosmall.jpeg}" AbsoluteLayout.LayoutBounds="350,0,50,50"
+               HeightRequest="40" />
+                </AbsoluteLayout>
+            </Frame>
+            <Label Text="Select your address for this order or add a new address" HorizontalTextAlignment="Center" TextColor="#1c2f74" FontSize="22" AbsoluteLayout.LayoutBounds="165,5,75,75"/>
+            <StackLayout x:Name="addressStack" Margin="20,35,20,20">
+                <ListView x:Name="addressList">
+                </ListView>
+                <Button Text="Add New Address" FontSize="Default" Clicked="ClickToShowPopup_Clicked" BackgroundColor="#1c2f74" TextColor="#dfbd5c" CornerRadius="5" BorderWidth="2" HorizontalOptions="CenterAndExpand"/>
+                <StackLayout Orientation="Horizontal" VerticalOptions="End">
+                </StackLayout>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

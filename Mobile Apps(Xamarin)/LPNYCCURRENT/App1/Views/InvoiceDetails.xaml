@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:LaundryPickupNYC"
+             x:Class="LaundryPickupNYC.InvoiceDetails">
+    <ContentPage.Content>
+        <StackLayout>
+            <Frame BackgroundColor="White" Padding="2" CornerRadius="0">
+                <AbsoluteLayout>
+                    <Label Text="Terms" HorizontalTextAlignment="Center" TextColor="#1c2f74" FontSize="18" AbsoluteLayout.LayoutBounds="150,5,110,45"/>
+                    <Image Source="{local:ImageResource App1.Images.logosmall.jpeg}" AbsoluteLayout.LayoutBounds="350,0,50,50"
+               HeightRequest="40" />
+                </AbsoluteLayout>
+            </Frame>
+            <Label x:Name="created" TextColor="#dfbd5c"></Label>
+            <Label x:Name="status" TextColor="#dfbd5c"></Label>
+
+            <Label x:Name="products" TextColor="#dfbd5c"></Label>
+
+            <Label x:Name="amtDue" TextColor="#dfbd5c"></Label>
+            <Label x:Name="amtPaid" TextColor="#dfbd5c"></Label>
+            <Label x:Name="amtRem" TextColor="#dfbd5c"></Label>
+            <Label x:Name="total" TextColor="#dfbd5c"></Label>
+            <Label x:Name="dueDate" TextColor="#dfbd5c"></Label>
+            <Label x:Name="descrip" TextColor="#dfbd5c"></Label>
+            <Label x:Name="stmtDesc" TextColor="#dfbd5c"></Label>
+            <Label x:Name="paid" TextColor="#dfbd5c"></Label>
+            <Label x:Name="invNum" TextColor="#dfbd5c"></Label>
+
+            <StackLayout Orientation="Horizontal" VerticalOptions="End" Padding="10">
+                <Button Text="Pay Balance" Clicked="Button_Clicked" BackgroundColor="#1c2f74" TextColor="#dfbd5c" CornerRadius="100" HorizontalOptions="CenterAndExpand"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

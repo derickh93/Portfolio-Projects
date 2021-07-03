@@ -1,0 +1,43 @@
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections\bin\Release\netstandard2.0\NYC Inspections.deps.json
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections\bin\Release\netstandard2.0\NYC Inspections.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections\bin\Release\netstandard2.0\ref\NYC Inspections.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections\bin\Release\netstandard2.0\NYC Inspections.pdb
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections\obj\Release\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections\obj\Release\netstandard2.0\Popups\FilterPopup.xaml.g.cs
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections\obj\Release\netstandard2.0\Popups\InfoPopup.xaml.g.cs
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections\obj\Release\netstandard2.0\Popups\LoadingPopup.xaml.g.cs
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections\obj\Release\netstandard2.0\Views\Contact.xaml.g.cs
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections\obj\Release\netstandard2.0\Views\InspectionList.xaml.g.cs
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections\obj\Release\netstandard2.0\Views\List.xaml.g.cs
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections\obj\Release\netstandard2.0\Views\Map.xaml.g.cs
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections\obj\Release\netstandard2.0\Views\SplashScreen.xaml.g.cs
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections\obj\Release\netstandard2.0\NYC Inspections.AssemblyInfoInputs.cache
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections\obj\Release\netstandard2.0\NYC Inspections.AssemblyInfo.cs
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections\obj\Release\netstandard2.0\NYC Inspections.csproj.CoreCompileInputs.cache
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections\obj\Release\netstandard2.0\NYC Inspections.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections\obj\Release\netstandard2.0\ref\NYC Inspections.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections\obj\Release\netstandard2.0\NYC Inspections.pdb
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Projects\NYC Inspections\NYC Inspections\bin\Release\netstandard2.0\NYC Inspections.deps.json
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Projects\NYC Inspections\NYC Inspections\bin\Release\netstandard2.0\NYC Inspections.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Projects\NYC Inspections\NYC Inspections\bin\Release\netstandard2.0\ref\NYC Inspections.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Projects\NYC Inspections\NYC Inspections\bin\Release\netstandard2.0\NYC Inspections.pdb
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Projects\NYC Inspections\NYC Inspections\obj\Release\netstandard2.0\NYC Inspections.csproj.AssemblyReference.cache
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Projects\NYC Inspections\NYC Inspections\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Projects\NYC Inspections\NYC Inspections\obj\Release\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Projects\NYC Inspections\NYC Inspections\obj\Release\netstandard2.0\Popups\FilterPopup.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Projects\NYC Inspections\NYC Inspections\obj\Release\netstandard2.0\Popups\InfoPopup.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Projects\NYC Inspections\NYC Inspections\obj\Release\netstandard2.0\Popups\LoadingPopup.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Projects\NYC Inspections\NYC Inspections\obj\Release\netstandard2.0\Views\Contact.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Projects\NYC Inspections\NYC Inspections\obj\Release\netstandard2.0\Views\InspectionList.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Projects\NYC Inspections\NYC Inspections\obj\Release\netstandard2.0\Views\List.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Projects\NYC Inspections\NYC Inspections\obj\Release\netstandard2.0\Views\Map.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Projects\NYC Inspections\NYC Inspections\obj\Release\netstandard2.0\Views\SplashScreen.xaml.g.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Projects\NYC Inspections\NYC Inspections\obj\Release\netstandard2.0\NYC Inspections.AssemblyInfoInputs.cache
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Projects\NYC Inspections\NYC Inspections\obj\Release\netstandard2.0\NYC Inspections.AssemblyInfo.cs
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Projects\NYC Inspections\NYC Inspections\obj\Release\netstandard2.0\NYC Inspections.csproj.CoreCompileInputs.cache
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Projects\NYC Inspections\NYC Inspections\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Projects\NYC Inspections\NYC Inspections\obj\Release\netstandard2.0\NYC Inspections.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Projects\NYC Inspections\NYC Inspections\obj\Release\netstandard2.0\ref\NYC Inspections.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Projects\NYC Inspections\NYC Inspections\obj\Release\netstandard2.0\NYC Inspections.pdb

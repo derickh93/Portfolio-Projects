@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<pages:PopupPage
+    x:Class="LaundryPickupNYC.ContactPopup"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:animations="clr-namespace:Rg.Plugins.Popup.Animations;assembly=Rg.Plugins.Popup"
+    xmlns:pages="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup">
+    <pages:PopupPage.Animation>
+        <animations:ScaleAnimation
+            DurationIn="400"
+            DurationOut="300"
+            EasingIn="SinOut"
+            EasingOut="SinIn"
+            HasBackgroundAnimation="True"
+            PositionIn="Center"
+            PositionOut="Center"
+            ScaleIn="1.2"
+            ScaleOut="0.8" />
+    </pages:PopupPage.Animation>
+    <StackLayout
+        Margin="12"
+        Padding="24"
+        BackgroundColor="White"
+        HorizontalOptions="Center"
+        VerticalOptions="Center">
+        <Label Text="&#x0a;&#x0a;Please contact us at 347-688-WASH (9274)" HorizontalTextAlignment="Start" TextColor="#1c2f74" FontSize="16" AbsoluteLayout.LayoutBounds="165,5,75,35"/>
+
+        <Label Text="" HorizontalTextAlignment="Start" TextColor="#1B6CAD" FontSize="16" AbsoluteLayout.LayoutBounds="165,5,75,35"/>
+        <Image x:Name="phone" Source="phone.png" HeightRequest="56"  BackgroundColor="Transparent" HorizontalOptions="Center">
+            <Image.GestureRecognizers>
+                <TapGestureRecognizer
+                Tapped="OnImagePhoneTapped"
+                NumberOfTapsRequired="1" />
+            </Image.GestureRecognizers>
+        </Image>
+
+        <Label Text="" HorizontalTextAlignment="Start" TextColor="#1B6CAD" FontSize="16" AbsoluteLayout.LayoutBounds="165,5,75,35"/>
+
+        <Image x:Name="text" Source="text.png" HeightRequest="56"  BackgroundColor="Transparent" HorizontalOptions="Center">
+            <Image.GestureRecognizers>
+                <TapGestureRecognizer
+                Tapped="OnImageTextTapped"
+                NumberOfTapsRequired="1" />
+            </Image.GestureRecognizers>
+        </Image>
+
+        <Label Text="" HorizontalTextAlignment="Start" TextColor="#1B6CAD" FontSize="16" AbsoluteLayout.LayoutBounds="165,5,75,35"/>
+
+        <Image x:Name="email" Source="email.png" HeightRequest="56"  BackgroundColor="Transparent" HorizontalOptions="Center">
+            <Image.GestureRecognizers>
+                <TapGestureRecognizer
+                Tapped="OnImageEmailTapped"
+                NumberOfTapsRequired="1" />
+            </Image.GestureRecognizers>
+        </Image>
+    </StackLayout>
+</pages:PopupPage>

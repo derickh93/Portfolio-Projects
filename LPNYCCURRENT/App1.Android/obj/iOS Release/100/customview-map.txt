@@ -1,0 +1,431 @@
+@string/appbar_scrolling_view_behavior;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\171\jl\res\layout\rootlayout.xml
+@string/appbar_scrolling_view_behavior;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\171\jl\res\layout\rootlayout.xml
+adaptive-icon;obj\iOS Release\100\res\mipmap-anydpi-v26\icon.xml
+adaptive-icon;obj\iOS Release\100\res\mipmap-anydpi-v26\icon_round.xml
+alpha;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\171\jl\res\anim\enterfromleft.xml
+alpha;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\171\jl\res\anim\exittoleft.xml
+alpha;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\171\jl\res\anim\enterfromleft.xml
+alpha;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\171\jl\res\anim\exittoleft.xml
+androidx.appcompat.widget.Toolbar;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\171\jl\res\layout\fallbacktoolbardonotuse.xml
+androidx.appcompat.widget.Toolbar;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\171\jl\res\layout\rootlayout.xml
+androidx.appcompat.widget.Toolbar;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\171\jl\res\layout\shellcontent.xml
+androidx.appcompat.widget.Toolbar;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\171\jl\res\layout\toolbar.xml
+androidx.appcompat.widget.Toolbar;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\171\jl\res\layout\fallbacktoolbardonotuse.xml
+androidx.appcompat.widget.Toolbar;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\171\jl\res\layout\rootlayout.xml
+androidx.appcompat.widget.Toolbar;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\171\jl\res\layout\shellcontent.xml
+androidx.appcompat.widget.Toolbar;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\171\jl\res\layout\toolbar.xml
+androidx.appcompat.widget.Toolbar;obj\iOS Release\100\res\layout\toolbar.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\171\jl\res\layout\rootlayout.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\171\jl\res\layout\shellcontent.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\171\jl\res\layout\rootlayout.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\171\jl\res\layout\shellcontent.xml
+androidx.legacy.widget.Space;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\110\jl\res\layout\bb_bottom_bar_item_shifting.xml
+androidx.legacy.widget.Space;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\110\jl\res\layout\bb_bottom_bar_item_shifting.xml
+attr;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\116\jl\res\values\attrs.xml
+attr;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\122\jl\res\values\attrs.xml
+attr;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\124\jl\res\values\attrs.xml
+attr;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\170\jl\res\values\styles.xml
+attr;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\171\jl\res\values\attrs.xml
+attr;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\116\jl\res\values\attrs.xml
+attr;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\122\jl\res\values\attrs.xml
+attr;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\124\jl\res\values\attrs.xml
+attr;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\170\jl\res\values\styles.xml
+attr;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\171\jl\res\values\attrs.xml
+background;obj\iOS Release\100\res\mipmap-anydpi-v26\icon.xml
+background;obj\iOS Release\100\res\mipmap-anydpi-v26\icon_round.xml
+bitmap;obj\iOS Release\100\res\drawable\splash_screen.xml
+bool;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\110\jl\res\values\bools.xml
+bool;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\110\jl\res\values-sw600dp\bools.xml
+bool;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\110\jl\res\values\bools.xml
+bool;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\110\jl\res\values-sw600dp\bools.xml
+Button;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\layout\formfieldbuttonlayout.xml
+Button;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\layout\passwordalertdialog.xml
+Button;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\layout\signaturepadlayout.xml
+Button;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\layout\formfieldbuttonlayout.xml
+Button;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\layout\passwordalertdialog.xml
+Button;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\layout\signaturepadlayout.xml
+cache-path;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\168\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+cache-path;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\168\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+CheckBox;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\layout\dialoglistviewrow.xml
+CheckBox;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\layout\dialoglistviewrow.xml
+color;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\110\jl\res\values\colors.xml
+color;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\110\jl\res\values\colors.xml
+color;obj\iOS Release\100\res\drawable\splash_screen.xml
+color;obj\iOS Release\100\res\values\colors.xml
+com.google.android.material.appbar.AppBarLayout;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\171\jl\res\layout\flyoutcontent.xml
+com.google.android.material.appbar.AppBarLayout;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\171\jl\res\layout\rootlayout.xml
+com.google.android.material.appbar.AppBarLayout;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\171\jl\res\layout\shellcontent.xml
+com.google.android.material.appbar.AppBarLayout;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\171\jl\res\layout\flyoutcontent.xml
+com.google.android.material.appbar.AppBarLayout;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\171\jl\res\layout\rootlayout.xml
+com.google.android.material.appbar.AppBarLayout;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\171\jl\res\layout\shellcontent.xml
+com.google.android.material.bottomnavigation.BottomNavigationView;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\171\jl\res\layout\bottomtablayout.xml
+com.google.android.material.bottomnavigation.BottomNavigationView;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\171\jl\res\layout\bottomtablayout.xml
+com.google.android.material.tabs.TabLayout;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\171\jl\res\layout\fallbacktabbardonotuse.xml
+com.google.android.material.tabs.TabLayout;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\171\jl\res\layout\rootlayout.xml
+com.google.android.material.tabs.TabLayout;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\171\jl\res\layout\tabbar.xml
+com.google.android.material.tabs.TabLayout;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\171\jl\res\layout\fallbacktabbardonotuse.xml
+com.google.android.material.tabs.TabLayout;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\171\jl\res\layout\rootlayout.xml
+com.google.android.material.tabs.TabLayout;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\171\jl\res\layout\tabbar.xml
+com.google.android.material.tabs.TabLayout;obj\iOS Release\100\res\layout\tabbar.xml
+corners;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\edittextpagecount.xml
+corners;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\signaturepadbottomcorner.xml
+corners;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\signaturepadroundedcorners.xml
+corners;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\signaturepadtopcorner.xml
+corners;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\170\jl\res\drawable\materialprogressbar.xml
+corners;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\edittextpagecount.xml
+corners;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\signaturepadbottomcorner.xml
+corners;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\signaturepadroundedcorners.xml
+corners;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\signaturepadtopcorner.xml
+corners;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\170\jl\res\drawable\materialprogressbar.xml
+declare-styleable;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\116\jl\res\values\attrs.xml
+declare-styleable;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\122\jl\res\values\attrs.xml
+declare-styleable;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\124\jl\res\values\attrs.xml
+declare-styleable;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\171\jl\res\values\attrs.xml
+declare-styleable;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\116\jl\res\values\attrs.xml
+declare-styleable;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\122\jl\res\values\attrs.xml
+declare-styleable;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\124\jl\res\values\attrs.xml
+declare-styleable;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\171\jl\res\values\attrs.xml
+dimen;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\110\jl\res\values\dimens.xml
+dimen;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\122\jl\res\values\dimens.xml
+dimen;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\110\jl\res\values\dimens.xml
+dimen;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\122\jl\res\values\dimens.xml
+EditText;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\layout\passwordalertdialog.xml
+EditText;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\layout\passwordalertdialog.xml
+enum;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\116\jl\res\values\attrs.xml
+enum;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\122\jl\res\values\attrs.xml
+enum;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\124\jl\res\values\attrs.xml
+enum;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\116\jl\res\values\attrs.xml
+enum;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\122\jl\res\values\attrs.xml
+enum;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\124\jl\res\values\attrs.xml
+external-cache-path;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\168\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-cache-path;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\168\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\168\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\168\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj\iOS Release\100\res\mipmap-anydpi-v26\icon.xml
+foreground;obj\iOS Release\100\res\mipmap-anydpi-v26\icon_round.xml
+FrameLayout;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\110\jl\res\layout\bb_bottom_bar_item_container.xml
+FrameLayout;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\110\jl\res\layout\bb_bottom_bar_item_container_tablet.xml
+FrameLayout;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\110\jl\res\layout\bb_bottom_bar_item_fixed.xml
+FrameLayout;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\110\jl\res\layout\bb_bottom_bar_item_fixed_tablet.xml
+FrameLayout;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\layout\signaturepadlayout.xml
+FrameLayout;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\171\jl\res\layout\bottomtablayout.xml
+FrameLayout;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\110\jl\res\layout\bb_bottom_bar_item_container.xml
+FrameLayout;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\110\jl\res\layout\bb_bottom_bar_item_container_tablet.xml
+FrameLayout;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\110\jl\res\layout\bb_bottom_bar_item_fixed.xml
+FrameLayout;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\110\jl\res\layout\bb_bottom_bar_item_fixed_tablet.xml
+FrameLayout;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\layout\signaturepadlayout.xml
+FrameLayout;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\171\jl\res\layout\bottomtablayout.xml
+gradient;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\110\jl\res\drawable\bb_bottom_bar_top_shadow.xml
+gradient;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\110\jl\res\drawable\bb_bottom_bar_top_shadow.xml
+GridLayout;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\layout\dialoglistviewrow.xml
+GridLayout;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\layout\listviewrow.xml
+GridLayout;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\layout\signaturepadlayout.xml
+GridLayout;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\layout\dialoglistviewrow.xml
+GridLayout;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\layout\listviewrow.xml
+GridLayout;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\layout\signaturepadlayout.xml
+group;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\formfieldcheckbox_checked.xml
+group;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\formfieldcheckbox_unchecked.xml
+group;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\formfieldcheckbox_checked.xml
+group;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\formfieldcheckbox_unchecked.xml
+ImageView;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\110\jl\res\layout\bb_bottom_bar_item_container.xml
+ImageView;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\110\jl\res\layout\bb_bottom_bar_item_fixed.xml
+ImageView;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\110\jl\res\layout\bb_bottom_bar_item_fixed_tablet.xml
+ImageView;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\110\jl\res\layout\bb_bottom_bar_item_shifting.xml
+ImageView;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\110\jl\res\layout\bb_bottom_bar_item_container.xml
+ImageView;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\110\jl\res\layout\bb_bottom_bar_item_fixed.xml
+ImageView;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\110\jl\res\layout\bb_bottom_bar_item_fixed_tablet.xml
+ImageView;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\110\jl\res\layout\bb_bottom_bar_item_shifting.xml
+item;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\110\jl\res\values\styles.xml
+item;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\alertviewdialogbottomline.xml
+item;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\checkablematerialcolor.xml
+item;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\edittextpagecount.xml
+item;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\formfieldcheckbox.xml
+item;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\formfieldradiobuttonstyle.xml
+item;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\passwordalertdialogbottomline.xml
+item;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\120\jl\res\drawable\popup_forms_android_shadow.xml
+item;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\121\jl\res\drawable\sfprogressbar_determinate_linear.xml
+item;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\121\jl\res\drawable\sfprogressbar_indeterminate_circular.xml
+item;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\121\jl\res\drawable\sfprogressbar_indeterminate_linear.xml
+item;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\170\jl\res\drawable\materialprogressbar.xml
+item;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\170\jl\res\values\styles.xml
+item;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\170\jl\res\values-v21\styles.xml
+item;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\171\jl\res\values\styles.xml
+item;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\110\jl\res\values\styles.xml
+item;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\alertviewdialogbottomline.xml
+item;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\checkablematerialcolor.xml
+item;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\edittextpagecount.xml
+item;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\formfieldcheckbox.xml
+item;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\formfieldradiobuttonstyle.xml
+item;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\passwordalertdialogbottomline.xml
+item;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\120\jl\res\drawable\popup_forms_android_shadow.xml
+item;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\121\jl\res\drawable\sfprogressbar_determinate_linear.xml
+item;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\121\jl\res\drawable\sfprogressbar_indeterminate_circular.xml
+item;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\121\jl\res\drawable\sfprogressbar_indeterminate_linear.xml
+item;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\170\jl\res\drawable\materialprogressbar.xml
+item;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\170\jl\res\values\styles.xml
+item;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\170\jl\res\values-v21\styles.xml
+item;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\171\jl\res\values\styles.xml
+item;obj\iOS Release\100\res\drawable\splash_screen.xml
+item;obj\iOS Release\100\res\values\styles.xml
+layer-list;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\alertviewdialogbottomline.xml
+layer-list;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\edittextpagecount.xml
+layer-list;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\formfieldradiobuttonstyle.xml
+layer-list;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\passwordalertdialogbottomline.xml
+layer-list;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\120\jl\res\drawable\popup_forms_android_shadow.xml
+layer-list;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\121\jl\res\drawable\sfprogressbar_determinate_linear.xml
+layer-list;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\121\jl\res\drawable\sfprogressbar_indeterminate_circular.xml
+layer-list;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\121\jl\res\drawable\sfprogressbar_indeterminate_linear.xml
+layer-list;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\170\jl\res\drawable\materialprogressbar.xml
+layer-list;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\alertviewdialogbottomline.xml
+layer-list;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\edittextpagecount.xml
+layer-list;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\formfieldradiobuttonstyle.xml
+layer-list;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\passwordalertdialogbottomline.xml
+layer-list;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\120\jl\res\drawable\popup_forms_android_shadow.xml
+layer-list;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\121\jl\res\drawable\sfprogressbar_determinate_linear.xml
+layer-list;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\121\jl\res\drawable\sfprogressbar_indeterminate_circular.xml
+layer-list;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\121\jl\res\drawable\sfprogressbar_indeterminate_linear.xml
+layer-list;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\170\jl\res\drawable\materialprogressbar.xml
+layer-list;obj\iOS Release\100\res\drawable\splash_screen.xml
+LinearLayout;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\110\jl\res\layout\bb_bottom_bar_item_container.xml
+LinearLayout;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\110\jl\res\layout\bb_bottom_bar_item_container_tablet.xml
+LinearLayout;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\110\jl\res\layout\bb_bottom_bar_item_shifting.xml
+LinearLayout;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\layout\passwordalertdialog.xml
+LinearLayout;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\layout\signaturepadlayout.xml
+LinearLayout;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\171\jl\res\layout\bottomtablayout.xml
+LinearLayout;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\110\jl\res\layout\bb_bottom_bar_item_container.xml
+LinearLayout;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\110\jl\res\layout\bb_bottom_bar_item_container_tablet.xml
+LinearLayout;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\110\jl\res\layout\bb_bottom_bar_item_shifting.xml
+LinearLayout;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\layout\passwordalertdialog.xml
+LinearLayout;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\layout\signaturepadlayout.xml
+LinearLayout;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\171\jl\res\layout\bottomtablayout.xml
+merge;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\110\jl\res\layout\bb_bottom_bar_item_container.xml
+merge;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\110\jl\res\layout\bb_bottom_bar_item_container_tablet.xml
+merge;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\110\jl\res\layout\bb_bottom_bar_item_container.xml
+merge;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\110\jl\res\layout\bb_bottom_bar_item_container_tablet.xml
+path;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\formfieldcheckbox_checked.xml
+path;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\formfieldcheckbox_unchecked.xml
+path;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\formfieldcheckbox_checked.xml
+path;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\formfieldcheckbox_unchecked.xml
+paths;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\168\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+paths;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\168\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+RadioButton;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\layout\dialoglistviewrow.xml
+RadioButton;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\layout\dialoglistviewrow.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\109\jl\res\values\strings.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\110\jl\res\values\attrs.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\110\jl\res\values\bools.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\110\jl\res\values\colors.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\110\jl\res\values\dimens.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\110\jl\res\values\strings.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\110\jl\res\values\styles.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\110\jl\res\values-sw600dp\bools.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\116\jl\res\values\attrs.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\116\jl\res\values\strings.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\values\strings.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\120\jl\res\values\strings.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\121\jl\res\values\strings.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\122\jl\res\values\attrs.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\122\jl\res\values\dimens.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\122\jl\res\values\strings.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\124\jl\res\values\attrs.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\124\jl\res\values\strings.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\170\jl\res\values\styles.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\170\jl\res\values-v21\styles.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\171\jl\res\values\attrs.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\171\jl\res\values\strings.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\171\jl\res\values\styles.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\109\jl\res\values\strings.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\110\jl\res\values\attrs.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\110\jl\res\values\bools.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\110\jl\res\values\colors.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\110\jl\res\values\dimens.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\110\jl\res\values\strings.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\110\jl\res\values\styles.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\110\jl\res\values-sw600dp\bools.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\116\jl\res\values\attrs.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\116\jl\res\values\strings.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\values\strings.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\120\jl\res\values\strings.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\121\jl\res\values\strings.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\122\jl\res\values\attrs.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\122\jl\res\values\dimens.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\122\jl\res\values\strings.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\124\jl\res\values\attrs.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\124\jl\res\values\strings.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\170\jl\res\values\styles.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\170\jl\res\values-v21\styles.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\171\jl\res\values\attrs.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\171\jl\res\values\strings.xml
+resources;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\171\jl\res\values\styles.xml
+resources;obj\iOS Release\100\res\values\colors.xml
+resources;obj\iOS Release\100\res\values\styles.xml
+rotate;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\121\jl\res\drawable\sfprogressbar_indeterminate_circular.xml
+rotate;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\121\jl\res\drawable\sfprogressbar_indeterminate_circular.xml
+scale;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\121\jl\res\drawable\sfprogressbar_determinate_linear.xml
+scale;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\170\jl\res\drawable\materialprogressbar.xml
+scale;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\121\jl\res\drawable\sfprogressbar_determinate_linear.xml
+scale;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\170\jl\res\drawable\materialprogressbar.xml
+selector;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\checkablematerialcolor.xml
+selector;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\formfieldcheckbox.xml
+selector;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\formfieldradiobuttonstyle.xml
+selector;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\checkablematerialcolor.xml
+selector;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\formfieldcheckbox.xml
+selector;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\formfieldradiobuttonstyle.xml
+set;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\171\jl\res\anim\enterfromleft.xml
+set;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\171\jl\res\anim\enterfromright.xml
+set;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\171\jl\res\anim\exittoleft.xml
+set;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\171\jl\res\anim\exittoright.xml
+set;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\171\jl\res\anim\enterfromleft.xml
+set;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\171\jl\res\anim\enterfromright.xml
+set;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\171\jl\res\anim\exittoleft.xml
+set;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\171\jl\res\anim\exittoright.xml
+shape;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\110\jl\res\drawable\bb_bottom_bar_top_shadow.xml
+shape;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\alertviewdialogbottomline.xml
+shape;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\edittextpagecount.xml
+shape;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\formfieldradiobuttonstyle.xml
+shape;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\formfieldtextboxcursorcolor.xml
+shape;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\passwordalertdialogbottomline.xml
+shape;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\passwordalertdialogcursorstyle.xml
+shape;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\signaturepadbottomcorner.xml
+shape;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\signaturepadroundedcorners.xml
+shape;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\signaturepadtopcorner.xml
+shape;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\120\jl\res\drawable\popup_forms_android_shadow.xml
+shape;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\121\jl\res\drawable\sfprogressbar_determinate_linear.xml
+shape;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\121\jl\res\drawable\sfprogressbar_indeterminate_circular.xml
+shape;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\121\jl\res\drawable\sfprogressbar_indeterminate_linear.xml
+shape;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\170\jl\res\drawable\materialactivityindicatorbackground.xml
+shape;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\170\jl\res\drawable\materialprogressbar.xml
+shape;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\170\jl\res\drawable-v24\materialactivityindicatorbackground.xml
+shape;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\110\jl\res\drawable\bb_bottom_bar_top_shadow.xml
+shape;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\alertviewdialogbottomline.xml
+shape;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\edittextpagecount.xml
+shape;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\formfieldradiobuttonstyle.xml
+shape;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\formfieldtextboxcursorcolor.xml
+shape;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\passwordalertdialogbottomline.xml
+shape;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\passwordalertdialogcursorstyle.xml
+shape;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\signaturepadbottomcorner.xml
+shape;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\signaturepadroundedcorners.xml
+shape;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\signaturepadtopcorner.xml
+shape;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\120\jl\res\drawable\popup_forms_android_shadow.xml
+shape;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\121\jl\res\drawable\sfprogressbar_determinate_linear.xml
+shape;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\121\jl\res\drawable\sfprogressbar_indeterminate_circular.xml
+shape;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\121\jl\res\drawable\sfprogressbar_indeterminate_linear.xml
+shape;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\170\jl\res\drawable\materialactivityindicatorbackground.xml
+shape;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\170\jl\res\drawable\materialprogressbar.xml
+shape;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\170\jl\res\drawable-v24\materialactivityindicatorbackground.xml
+size;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\formfieldradiobuttonstyle.xml
+size;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\formfieldtextboxcursorcolor.xml
+size;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\passwordalertdialogcursorstyle.xml
+size;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\121\jl\res\drawable\sfprogressbar_determinate_linear.xml
+size;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\121\jl\res\drawable\sfprogressbar_indeterminate_linear.xml
+size;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\formfieldradiobuttonstyle.xml
+size;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\formfieldtextboxcursorcolor.xml
+size;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\passwordalertdialogcursorstyle.xml
+size;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\121\jl\res\drawable\sfprogressbar_determinate_linear.xml
+size;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\121\jl\res\drawable\sfprogressbar_indeterminate_linear.xml
+solid;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\alertviewdialogbottomline.xml
+solid;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\edittextpagecount.xml
+solid;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\formfieldradiobuttonstyle.xml
+solid;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\formfieldtextboxcursorcolor.xml
+solid;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\passwordalertdialogbottomline.xml
+solid;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\passwordalertdialogcursorstyle.xml
+solid;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\signaturepadbottomcorner.xml
+solid;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\signaturepadroundedcorners.xml
+solid;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\signaturepadtopcorner.xml
+solid;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\121\jl\res\drawable\sfprogressbar_determinate_linear.xml
+solid;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\121\jl\res\drawable\sfprogressbar_indeterminate_circular.xml
+solid;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\121\jl\res\drawable\sfprogressbar_indeterminate_linear.xml
+solid;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\170\jl\res\drawable\materialactivityindicatorbackground.xml
+solid;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\170\jl\res\drawable\materialprogressbar.xml
+solid;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\170\jl\res\drawable-v24\materialactivityindicatorbackground.xml
+solid;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\alertviewdialogbottomline.xml
+solid;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\edittextpagecount.xml
+solid;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\formfieldradiobuttonstyle.xml
+solid;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\formfieldtextboxcursorcolor.xml
+solid;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\passwordalertdialogbottomline.xml
+solid;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\passwordalertdialogcursorstyle.xml
+solid;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\signaturepadbottomcorner.xml
+solid;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\signaturepadroundedcorners.xml
+solid;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\signaturepadtopcorner.xml
+solid;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\121\jl\res\drawable\sfprogressbar_determinate_linear.xml
+solid;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\121\jl\res\drawable\sfprogressbar_indeterminate_circular.xml
+solid;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\121\jl\res\drawable\sfprogressbar_indeterminate_linear.xml
+solid;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\170\jl\res\drawable\materialactivityindicatorbackground.xml
+solid;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\170\jl\res\drawable\materialprogressbar.xml
+solid;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\170\jl\res\drawable-v24\materialactivityindicatorbackground.xml
+Space;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\layout\signaturepadlayout.xml
+Space;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\layout\signaturepadlayout.xml
+string;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\109\jl\res\values\strings.xml
+string;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\110\jl\res\values\strings.xml
+string;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\116\jl\res\values\strings.xml
+string;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\values\strings.xml
+string;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\120\jl\res\values\strings.xml
+string;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\121\jl\res\values\strings.xml
+string;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\122\jl\res\values\strings.xml
+string;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\124\jl\res\values\strings.xml
+string;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\171\jl\res\values\strings.xml
+string;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\109\jl\res\values\strings.xml
+string;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\110\jl\res\values\strings.xml
+string;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\116\jl\res\values\strings.xml
+string;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\values\strings.xml
+string;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\120\jl\res\values\strings.xml
+string;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\121\jl\res\values\strings.xml
+string;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\122\jl\res\values\strings.xml
+string;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\124\jl\res\values\strings.xml
+string;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\171\jl\res\values\strings.xml
+stroke;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\edittextpagecount.xml
+stroke;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\formfieldradiobuttonstyle.xml
+stroke;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\signaturepadbottomcorner.xml
+stroke;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\signaturepadtopcorner.xml
+stroke;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\edittextpagecount.xml
+stroke;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\formfieldradiobuttonstyle.xml
+stroke;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\signaturepadbottomcorner.xml
+stroke;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\signaturepadtopcorner.xml
+style;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\110\jl\res\values\styles.xml
+style;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\170\jl\res\values\styles.xml
+style;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\170\jl\res\values-v21\styles.xml
+style;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\171\jl\res\values\styles.xml
+style;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\110\jl\res\values\styles.xml
+style;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\170\jl\res\values\styles.xml
+style;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\170\jl\res\values-v21\styles.xml
+style;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\171\jl\res\values\styles.xml
+style;obj\iOS Release\100\res\values\styles.xml
+TextView;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\110\jl\res\layout\bb_bottom_bar_item_fixed.xml
+TextView;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\110\jl\res\layout\bb_bottom_bar_item_shifting.xml
+TextView;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\layout\dialoglistviewrow.xml
+TextView;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\layout\listviewrow.xml
+TextView;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\layout\passwordalertdialog.xml
+TextView;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\layout\signaturepadlayout.xml
+TextView;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\110\jl\res\layout\bb_bottom_bar_item_fixed.xml
+TextView;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\110\jl\res\layout\bb_bottom_bar_item_shifting.xml
+TextView;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\layout\dialoglistviewrow.xml
+TextView;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\layout\listviewrow.xml
+TextView;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\layout\passwordalertdialog.xml
+TextView;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\layout\signaturepadlayout.xml
+translate;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\171\jl\res\anim\enterfromleft.xml
+translate;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\171\jl\res\anim\enterfromright.xml
+translate;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\171\jl\res\anim\exittoleft.xml
+translate;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\171\jl\res\anim\exittoright.xml
+translate;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\171\jl\res\anim\enterfromleft.xml
+translate;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\171\jl\res\anim\enterfromright.xml
+translate;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\171\jl\res\anim\exittoleft.xml
+translate;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\171\jl\res\anim\exittoright.xml
+vector;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\formfieldcheckbox_checked.xml
+vector;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\formfieldcheckbox_unchecked.xml
+vector;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\formfieldcheckbox_checked.xml
+vector;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\119\jl\res\drawable\formfieldcheckbox_unchecked.xml
+View;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\110\jl\res\layout\bb_bottom_bar_item_container.xml
+View;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\110\jl\res\layout\bb_bottom_bar_item_container_tablet.xml
+View;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\110\jl\res\layout\bb_bottom_bar_item_container.xml
+View;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\110\jl\res\layout\bb_bottom_bar_item_container_tablet.xml
+xamarin.forms.material.android.MaterialFormsEditText;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\170\jl\res\layout\textinputlayoutfilledbox.xml
+xamarin.forms.material.android.MaterialFormsEditText;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\170\jl\res\layout\textinputlayoutfilledbox.xml
+xamarin.forms.material.android.MaterialFormsTextInputLayout;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\170\jl\res\layout\textinputlayoutfilledbox.xml
+xamarin.forms.material.android.MaterialFormsTextInputLayout;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\170\jl\res\layout\textinputlayoutfilledbox.xml
+xamarin.forms.material.android.MaterialPickerEditText;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\170\jl\res\layout\materialpickertextinput.xml
+xamarin.forms.material.android.MaterialPickerEditText;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\170\jl\res\layout\materialpickertextinput.xml
+xamarin.forms.material.android.MaterialPickerTextInputLayout;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\170\jl\res\layout\materialpickertextinput.xml
+xamarin.forms.material.android.MaterialPickerTextInputLayout;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\170\jl\res\layout\materialpickertextinput.xml
+xamarin.forms.platform.android.appcompat.FormsViewPager;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\171\jl\res\layout\rootlayout.xml
+xamarin.forms.platform.android.appcompat.FormsViewPager;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\171\jl\res\layout\rootlayout.xml
+xamarin.forms.platform.android.ShellFlyoutLayout;C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.Android\obj\iOS Release\100\lp\171\jl\res\layout\flyoutcontent.xml
+xamarin.forms.platform.android.ShellFlyoutLayout;C:\Users\cooli\Desktop\Working Folder(Master)\LPNYCCURRENT\App1.Android\obj\iOS Release\100\lp\171\jl\res\layout\flyoutcontent.xml

@@ -1,0 +1,6 @@
+Choose appointment type
+calender and time picker
+your information- name phone email
+pay now/pay later
+secure payment page
+confirmatino page

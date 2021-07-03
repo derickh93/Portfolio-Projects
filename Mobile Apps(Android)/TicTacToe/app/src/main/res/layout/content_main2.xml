@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.widget.RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.theboss.tictactoe.Main2Activity"
+    tools:showIn="@layout/activity_main2">
+
+    <Button
+        android:id="@+id/start_Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="@string/str_Start" />
+
+    <EditText
+        android:id="@+id/name_One"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="73dp"
+        android:layout_toEndOf="@+id/str_Two"
+        android:ems="10"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/name_Two"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/name_One"
+        android:layout_marginTop="15dp"
+        android:ems="10"
+        android:inputType="textPersonName" />
+
+    <TextView
+        android:id="@+id/str_One"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/name_Two"
+        android:layout_marginBottom="11dp"
+        android:layout_toStartOf="@+id/name_Two"
+        android:text="@string/str_PlayerOne" />
+
+    <TextView
+        android:id="@+id/str_Two"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/str_One"
+        android:layout_alignTop="@+id/name_Two"
+        android:layout_marginTop="12dp"
+        android:text="@string/str_PlayerTwo" />
+</android.widget.RelativeLayout>

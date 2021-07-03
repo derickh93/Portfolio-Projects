@@ -1,0 +1,34 @@
+﻿SHIRTS
+Shirt on Hanger   $3.19
+Shirt Folded   $3.50
+Linen Shirt on Hanger   $4.00
+TOPS
+Cardigan   $10.00
+Sweater   $8.00
+Heavy Sweater   $10.00
+Top / Blouse   $8.00
+T-Shirt on Hanger   $3.19
+T-Shirt Folded   $3.50
+Polo Shirt on Hanger   $3.19
+Polo Shirt Folded   $3.50
+BOTTOMS
+Pants / Jeans   $8.00
+Shorts   $8.00
+Skirt   $8.00
+DRESSES
+Dress   $18.79
+Dress / Gown - Evening   $25.00
+Jumpsuit   $13.00
+OUTERWEAR
+Coat   $16.00
+Jacket / Blazer   $11.00
+Vest   $8.00
+Winter / Down Coat   $30.00
+Outer Jacket   $12.00
+ACCESSORIES & HOMEWEAR
+Scarf   $6.00
+HOME ITEMS
+Bath Mat   $8.75
+Pillow Case   $7.00
+Duvet Cover - All Sizes   $18.00
+Bed Sheet - All Sizes   $17.50

@@ -1,0 +1,224 @@
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\App1.iOS.exe
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Firebase.Auth.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Firebase.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\LiteDB.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Newtonsoft.Json.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Rg.Plugins.Popup.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Rg.Plugins.Popup.pdb
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\smartystreets-dotnet-sdk.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\SQLite-net.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\SQLitePCLRaw.batteries_v2.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\SQLitePCLRaw.nativelibrary.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\SQLitePCLRaw.core.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Stripe.net.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Stripe.net.pdb
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.Licensing.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.Compression.Portable.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.Core.XForms.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.Core.XForms.iOS.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.Pdf.Portable.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.SfBusyIndicator.XForms.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.SfBusyIndicator.XForms.iOS.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.SfBusyIndicator.iOS.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.SfCarousel.XForms.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.SfCarousel.XForms.iOS.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.SfPdfViewer.XForms.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.SfPdfViewer.XForms.iOS.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.SfPopupLayout.XForms.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.SfPopupLayout.XForms.iOS.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.SfProgressBar.XForms.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.SfProgressBar.XForms.iOS.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.SfRangeSlider.XForms.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.SfRangeSlider.XForms.iOS.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.SfRangeSlider.iOS.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.SfSchedule.XForms.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.SfSchedule.XForms.iOS.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\System.Buffers.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\System.Memory.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\System.Reactive.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\System.Security.AccessControl.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\System.Security.Permissions.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\System.Security.Principal.Windows.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\BottomBar.XamarinForms.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Plugin.DownloadManager.Abstractions.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Plugin.DownloadManager.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Xamarin.Essentials.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Xamarin.Essentials.pdb
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Xamarin.Forms.Core.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Xamarin.Forms.Core.pdb
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Xamarin.Forms.Platform.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Xamarin.Forms.Platform.iOS.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Xamarin.Forms.Xaml.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Xamarin.Forms.GoogleMaps.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Xamarin.Forms.GoogleMaps.iOS.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Xamarin.Forms.Material.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Xamarin.Forms.Material.pdb
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\Google.Maps.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\MaterialComponents.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\XamarinFastEntry.Behaviors.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\LaundryPickupNYC.dll
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\bin\iPhoneSimulator\Release\LaundryPickupNYC.pdb
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\obj\iPhoneSimulator\Release\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\obj\iPhoneSimulator\Release\actool\_PartialAppManifest.items
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\obj\iPhoneSimulator\Release\actool\_BundleResourceWithLogicalName.items
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\obj\iPhoneSimulator\Release\coremlc\_PartialAppManifest.items
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\obj\iPhoneSimulator\Release\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\obj\iPhoneSimulator\Release\optimized\
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\obj\iPhoneSimulator\Release\LaundryPickupNYC.iOS.csprojAssemblyReference.cache
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\obj\iPhoneSimulator\Release\LaundryPickupNYC.iOS.csproj.CoreCompileInputs.cache
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\obj\iPhoneSimulator\Release\LaundryPickupNYC.iOS.csproj.CopyComplete
+C:\Users\cooli\Desktop\Xamarin\App1\App1.iOS\obj\iPhoneSimulator\Release\App1.iOS.exe
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\App1.iOS.exe
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Firebase.Auth.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Firebase.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\LiteDB.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Newtonsoft.Json.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Rg.Plugins.Popup.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Rg.Plugins.Popup.pdb
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\smartystreets-dotnet-sdk.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\SQLite-net.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\SQLitePCLRaw.batteries_v2.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\SQLitePCLRaw.nativelibrary.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\SQLitePCLRaw.core.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Stripe.net.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Stripe.net.pdb
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.Licensing.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.Compression.Portable.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.Core.XForms.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.Core.XForms.iOS.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.Pdf.Portable.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.SfBusyIndicator.XForms.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.SfBusyIndicator.XForms.iOS.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.SfBusyIndicator.iOS.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.SfCarousel.XForms.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.SfCarousel.XForms.iOS.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.SfPdfViewer.XForms.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.SfPdfViewer.XForms.iOS.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.SfPopupLayout.XForms.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.SfPopupLayout.XForms.iOS.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.SfProgressBar.XForms.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.SfProgressBar.XForms.iOS.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.SfRangeSlider.XForms.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.SfRangeSlider.XForms.iOS.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.SfRangeSlider.iOS.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.SfSchedule.XForms.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Syncfusion.SfSchedule.XForms.iOS.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\System.Buffers.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\System.Memory.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\System.Reactive.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\System.Security.AccessControl.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\System.Security.Permissions.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\System.Security.Principal.Windows.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\BottomBar.XamarinForms.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Plugin.DownloadManager.Abstractions.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Plugin.DownloadManager.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Xamarin.Essentials.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Xamarin.Essentials.pdb
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Xamarin.Forms.Core.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Xamarin.Forms.Core.pdb
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Xamarin.Forms.Platform.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Xamarin.Forms.Platform.iOS.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Xamarin.Forms.Xaml.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Xamarin.Forms.GoogleMaps.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Xamarin.Forms.GoogleMaps.iOS.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Xamarin.Forms.Material.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Xamarin.Forms.Material.pdb
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\Google.Maps.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\MaterialComponents.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\XamarinFastEntry.Behaviors.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\LaundryPickupNYC.dll
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\bin\iPhoneSimulator\Release\LaundryPickupNYC.pdb
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\obj\iPhoneSimulator\Release\actool\_PartialAppManifest.items
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\obj\iPhoneSimulator\Release\actool\_BundleResourceWithLogicalName.items
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\obj\iPhoneSimulator\Release\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\obj\iPhoneSimulator\Release\coremlc\_PartialAppManifest.items
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\obj\iPhoneSimulator\Release\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\obj\iPhoneSimulator\Release\optimized\
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\obj\iPhoneSimulator\Release\LaundryPickupNYC.iOS.csproj.AssemblyReference.cache
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\obj\iPhoneSimulator\Release\LaundryPickupNYC.iOS.csproj.CoreCompileInputs.cache
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\obj\iPhoneSimulator\Release\LaundryPickupNYC.iOS.csproj.CopyComplete
+C:\Users\cooli\Desktop\Working Folder(Master)\Github\Portfolio-Projects\Mobile Apps(Xamarin)\Laundry Pickup NYC\Laundry Pickup NYC\App1.iOS\obj\iPhoneSimulator\Release\App1.iOS.exe

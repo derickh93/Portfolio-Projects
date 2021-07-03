@@ -1,0 +1,21 @@
+Disable order placing with contact wash and go message
+label how to images
+change list view to item detail
+syncfusion license
+add place order button how it works
+
+Place Order Button
+
+Shell
+	pricing page x5
+	faq
+	terms
+ShellLogged
+	home page
+	pricing page x5
+	FAQ
+	Terms
+
+
+
+

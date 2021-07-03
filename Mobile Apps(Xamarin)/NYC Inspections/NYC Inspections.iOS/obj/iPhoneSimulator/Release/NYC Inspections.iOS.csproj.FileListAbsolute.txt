@@ -1,0 +1,74 @@
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\NYC Inspections.iOS.exe
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\SODA.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\SODA.Utilities.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\ExcelDataReader.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\ExcelDataReader.pdb
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\ExcelDataReader.DataSet.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\ExcelDataReader.DataSet.pdb
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\Plugin.MtAdmob.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\Microsoft.Exchange.WebServices.NETStandard.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\Newtonsoft.Json.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\Rg.Plugins.Popup.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\Rg.Plugins.Popup.pdb
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\System.Net.Http.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\System.Security.Cryptography.Xml.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\System.Text.Encoding.CodePages.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\Xamarin.Essentials.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\Xamarin.Essentials.pdb
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\Firebase.Core.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\Xamarin.Forms.Core.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\Xamarin.Forms.Core.pdb
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\Xamarin.Forms.Platform.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\Xamarin.Forms.Platform.iOS.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\Xamarin.Forms.Xaml.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\Xamarin.Forms.Maps.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\Xamarin.Forms.Maps.iOS.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\Google.MobileAds.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\NYC Inspections.dll
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\bin\iPhoneSimulator\Release\NYC Inspections.pdb
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\obj\iPhoneSimulator\Release\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\obj\iPhoneSimulator\Release\actool\_PartialAppManifest.items
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\obj\iPhoneSimulator\Release\actool\_BundleResourceWithLogicalName.items
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\obj\iPhoneSimulator\Release\coremlc\_PartialAppManifest.items
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\obj\iPhoneSimulator\Release\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\obj\iPhoneSimulator\Release\optimized\
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\obj\iPhoneSimulator\Release\NYC Inspections.iOS.csprojAssemblyReference.cache
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\obj\iPhoneSimulator\Release\NYC Inspections.iOS.csproj.CoreCompileInputs.cache
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\obj\iPhoneSimulator\Release\NYC Inspections.iOS.csproj.CopyComplete
+C:\Users\cooli\Desktop\NYC Inspections\NYC Inspections.iOS\obj\iPhoneSimulator\Release\NYC Inspections.iOS.exe

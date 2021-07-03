@@ -1,0 +1,6 @@
+Macys,40.736892,-73.612762,A,red,Shopping
+Bloomingdales,40.738247,-73.612916,A,red,Shopping
+AMC Roosevelt Field,40.739860,-73.615052,B,blue,Movie Theatre
+AMC Loews Raceway 10,40.742749,-73.596329,B,blue,Movie Theatre
+The Cheescake Factory,40.746036,-73.594841,C,green,Restaurant
+AppleBees,40.741094,-73.591341,C,green,Restaurant

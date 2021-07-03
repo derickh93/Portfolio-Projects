@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:LaundryPickupNYC"
+             x:Class="LaundryPickupNYC.Views.ReviewPage">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" BackgroundColor="white">
+            <Frame BackgroundColor="White" Padding="2" CornerRadius="0">
+                <AbsoluteLayout>
+                    <Label Text="Review Order" HorizontalTextAlignment="Center" TextColor="#1c2f74" FontSize="18" AbsoluteLayout.LayoutBounds="165,5,75,75"/>
+                    <Image Source="{local:ImageResource LaundryPickupNYC.Images.logosmall.jpeg}" AbsoluteLayout.LayoutBounds="350,0,50,50"
+               HeightRequest="40" />
+                </AbsoluteLayout>
+            </Frame>
+            <StackLayout x:Name="addressStack" Margin="20,35,20,20">
+                <Label Text="DETAILS" FontSize="Title" BackgroundColor="#1c2f74" TextColor="#dfbd5c" HorizontalOptions="Start"/>
+                <Label x:Name="address" FontSize="Default" TextColor="#1c2f74" HorizontalOptions="Start"/>
+                <Label x:Name="specialOrder" FontSize="Default"  TextColor="#1c2f74" HorizontalOptions="Start"/>
+                <Label x:Name="orderQuantity" FontSize="Default"  TextColor="#1c2f74" HorizontalOptions="Start"/>
+                <Label x:Name="pickupTime" FontSize="Default"  TextColor="#1c2f74" HorizontalOptions="Start"/>
+                <Label x:Name="dropoffTime" FontSize="Default"  TextColor="#1c2f74" HorizontalOptions="Start"/>
+                <Label Text ="DROP OFF OPTIONS:" FontSize="Default"  TextColor="#1c2f74" HorizontalOptions="Start"/>
+                <Label x:Name="text" FontSize="Default"  TextColor="#1c2f74" HorizontalOptions="Start"/>
+                <Label x:Name="call" FontSize="Default"  TextColor="#1c2f74" HorizontalOptions="Start"/>
+                <Label x:Name="ring" FontSize="Default"  TextColor="#1c2f74" HorizontalOptions="Start"/>
+            </StackLayout>
+            <Button Text="Place Order" FontSize="Title" Clicked="Button_Clicked"  BackgroundColor="#1c2f74" TextColor="#dfbd5c" CornerRadius="5" BorderWidth="2" HorizontalOptions="CenterAndExpand"/>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

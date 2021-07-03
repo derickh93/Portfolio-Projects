@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:LaundryAdmin"
+             x:Class="LaundryAdmin.InvoiceDetails">
+    <ContentPage.Content>
+        <StackLayout>
+            <Frame BackgroundColor="White" Padding="2" CornerRadius="0">
+                <AbsoluteLayout>
+                    <Label Text="Terms" HorizontalTextAlignment="Center" TextColor="#1c2f74" FontSize="18" AbsoluteLayout.LayoutBounds="150,5,110,45"/>
+                </AbsoluteLayout>
+            </Frame>
+            <Label x:Name="created" TextColor="#dfbd5c"></Label>
+
+            <Picker x:Name="statusPicker" Title="Update Status"
+                    TitleColor="#dfbd5c">
+            </Picker>
+            
+            <Label x:Name="status" TextColor="#dfbd5c"></Label>
+
+            <Label x:Name="products" TextColor="#dfbd5c"></Label>
+
+            <Label x:Name="amtDue" TextColor="#dfbd5c"></Label>
+            <Label x:Name="amtPaid" TextColor="#dfbd5c"></Label>
+            <Label x:Name="amtRem" TextColor="#dfbd5c"></Label>
+            <Label x:Name="total" TextColor="#dfbd5c"></Label>
+            <Label x:Name="dueDate" TextColor="#dfbd5c"></Label>
+            <Label x:Name="descrip" TextColor="#dfbd5c"></Label>
+            <Label x:Name="stmtDesc" TextColor="#dfbd5c"></Label>
+            <Label x:Name="paid" TextColor="#dfbd5c"></Label>
+            <Label x:Name="invNum" TextColor="#dfbd5c"></Label>
+
+            <StackLayout Orientation="Horizontal" VerticalOptions="End" Padding="10">
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

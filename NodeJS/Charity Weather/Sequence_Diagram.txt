@@ -1,0 +1,31 @@
+title Final Project Sequence Diagram
+
+
+participant Orghunter API
+participant User
+participant Server
+participant Weatherstack API
+
+User->Server:Browser requests "/" (root of our site)
+Server->User: Sends 200 Okay, Returns main.html (form)
+User->Server:User fills out form \nBrowser requests "/search" (root of our site)
+
+Server->Server:Checks for valid input and performs \ncaching, if not cached a new request is \nmade using create_search_request(city,state,req). \nThis method will use the API key provided along with \nthe user input to generate a http request with the proper \nquery parameters.
+
+Server->Orghunter API: The http request is sent\nAPI requests to get a list of charitys + {api_key}\nPOST https://data.orghunter.com/v1/charitysearch?user_key=${api_key}&state=${state}&city=${city}&eligible=1
+
+Server<-Orghunter API:Sends 200 Okay along with JSON data
+
+Server->Server: The data is parsed and a a request is sent to the 2nd api. A new request is \nmade using create_search_request_2(message,res). \nThis method will use the API key provided along with \nthe user input to generate a http request with the proper \nquery parameters.  
+
+Server->Weatherstack API:The http request is sent\nAPI requests to get weather + {api_key}\nPOST http://api.weatherstack.com/current?access_key=${api_key_weather}&query=${charity_arr.data[0].city}, ${charity_arr.data[0].state}
+
+Server<-Weatherstack API:Sends 200 Okay along with JSON data
+
+Server->Server: The data is parsed and the webpage is passed to the user.
+
+Server->User: 200 ok displays weather and charitys
+
+
+end
+

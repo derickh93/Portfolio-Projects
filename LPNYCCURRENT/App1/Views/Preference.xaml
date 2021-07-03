@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:LaundryPickupNYC"
+             x:Class="LaundryPickupNYC.Views.Preference">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" BackgroundColor="white">
+            <Frame BackgroundColor="White" Padding="2" CornerRadius="0">
+                <AbsoluteLayout>
+                    <Label Text="Preferences" HorizontalTextAlignment="Center" TextColor="#1c2f74" FontSize="18" AbsoluteLayout.LayoutBounds="150,5,110,45"/>
+                    <Image Source="{local:ImageResource LaundryPickupNYC.Images.logosmall.jpeg}" AbsoluteLayout.LayoutBounds="350,0,50,50"
+               HeightRequest="40" />
+                </AbsoluteLayout>
+            </Frame>
+            <Button Text="Add Special Order Instructions" FontSize="Default" Clicked="SpecialButton_OnClicked" BackgroundColor="#1c2f74" TextColor="#dfbd5c" CornerRadius="5" BorderWidth="2" HorizontalOptions="CenterAndExpand"/>
+            <StackLayout x:Name="addressStack" Margin="20,35,20,20" HorizontalOptions="Start">
+                <Button Text="Laundry" FontSize="Default" Clicked="Laundry_Button_Clicked"  BackgroundColor="#1c2f74" TextColor="#dfbd5c" CornerRadius="5" BorderWidth="2" HorizontalOptions="Start"/>
+                <Button Text="Dry Clean" FontSize="Default" Clicked="Dry_Button_Clicked" BackgroundColor="#1c2f74" TextColor="#dfbd5c" CornerRadius="5" BorderWidth="2" HorizontalOptions="Start"/>
+                <Button Text="Laundry/Dry Clean" FontSize="Default" Clicked="laundryDry_Button_Clicked" BackgroundColor="#1c2f74" TextColor="#dfbd5c" CornerRadius="5" BorderWidth="2" HorizontalOptions="Start"/>
+
+                <StackLayout Orientation="Horizontal" HorizontalOptions="Start">
+                    <CheckBox x:Name="textBox" CheckedChanged="textBox_CheckedChanged"/>
+                    <Label x:Name="textTxt" Text="Text when outside" FontSize="Default" TextColor="#1c2f74" HorizontalOptions="CenterAndExpand"/>
+                </StackLayout>
+               
+                <StackLayout Orientation="Horizontal" HorizontalOptions="Start">
+                    <CheckBox x:Name="callBox" CheckedChanged="callBox_CheckedChanged"/>
+                    <Label x:Name="callTxt" Text="Call when outside" FontSize="Default" TextColor="#1c2f74" HorizontalOptions="CenterAndExpand"/>
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal" HorizontalOptions="Start">
+                    <CheckBox x:Name="ringBox" CheckedChanged="ringBox_CheckedChanged"/>
+                    <Label x:Name="ringTxt" Text="Ring doorbell" FontSize="Default" TextColor="#1c2f74" HorizontalOptions="CenterAndExpand"/>
+                </StackLayout>
+                    <Button Text="Continue" FontSize="Title" Clicked="NavigateButton_OnClicked" BackgroundColor="#1c2f74" TextColor="#dfbd5c" CornerRadius="5" BorderWidth="2" HorizontalOptions="Center"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

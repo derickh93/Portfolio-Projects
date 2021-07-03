@@ -1,0 +1,289 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\Github\\Full-Stack-Developer\\Xamarin\\App1\\App1.Android\\App1.Android.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\Github\\Full-Stack-Developer\\Xamarin\\App1\\App1.Android\\App1.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\Github\\Full-Stack-Developer\\Xamarin\\App1\\App1.Android\\App1.Android.csproj",
+        "projectName": "App1.Android",
+        "projectPath": "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\Github\\Full-Stack-Developer\\Xamarin\\App1\\App1.Android\\App1.Android.csproj",
+        "packagesPath": "C:\\Users\\cooli\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\Github\\Full-Stack-Developer\\Xamarin\\App1\\App1.Android\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cooli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid10.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/tK2bSqkdkZPnTnQo5z6gjC1abMQkguEQZNTYDVmsTGXO2d7mDw/api": {}
+        },
+        "frameworks": {
+          "monoandroid10.0": {
+            "projectReferences": {
+              "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\Github\\Full-Stack-Developer\\Xamarin\\App1\\App1\\LaundryPickupNYC.csproj": {
+                "projectPath": "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\Github\\Full-Stack-Developer\\Xamarin\\App1\\App1\\LaundryPickupNYC.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid10.0": {
+          "dependencies": {
+            "FirebaseAuthentication.net": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Rg.Plugins.Popup": {
+              "target": "Package",
+              "version": "[2.0.0.10, )"
+            },
+            "Syncfusion.Xamarin.SfCarousel": {
+              "target": "Package",
+              "version": "[18.4.0.35, )"
+            },
+            "Syncfusion.Xamarin.SfPdfViewer": {
+              "target": "Package",
+              "version": "[18.4.0.34, )"
+            },
+            "Syncfusion.Xamarin.SfPopupLayout": {
+              "target": "Package",
+              "version": "[18.4.0.34, )"
+            },
+            "Syncfusion.Xamarin.SfSchedule": {
+              "target": "Package",
+              "version": "[18.4.0.34, )"
+            },
+            "ThriveGmbH.BottomNavigationBar.LATEST": {
+              "target": "Package",
+              "version": "[1.0.6, )"
+            },
+            "Xam.Plugins.DownloadManager": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Xamarin.Android.Support.Compat": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Core.UI": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Core.Utils": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Fragment": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Media.Compat": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Build.Download": {
+              "target": "Package",
+              "version": "[0.10.0, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.1874, )"
+            },
+            "Xamarin.Forms.GoogleMaps": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Xamarin.Forms.Visual.Material": {
+              "target": "Package",
+              "version": "[5.0.0.1874, )"
+            },
+            "XamarinFastEntry.Behaviors": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "XamarinForms.CardView": {
+              "target": "Package",
+              "version": "[1.1.1.5, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.7.335, )"
+            }
+          }
+        }
+      }
+    },
+    "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\Github\\Full-Stack-Developer\\Xamarin\\App1\\App1\\LaundryPickupNYC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\Github\\Full-Stack-Developer\\Xamarin\\App1\\App1\\LaundryPickupNYC.csproj",
+        "projectName": "LaundryPickupNYC",
+        "projectPath": "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\Github\\Full-Stack-Developer\\Xamarin\\App1\\App1\\LaundryPickupNYC.csproj",
+        "packagesPath": "C:\\Users\\cooli\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\Github\\Full-Stack-Developer\\Xamarin\\App1\\App1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cooli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/tK2bSqkdkZPnTnQo5z6gjC1abMQkguEQZNTYDVmsTGXO2d7mDw/api": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "FirebaseAuthentication.net": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "FirebaseDatabase.net": {
+              "target": "Package",
+              "version": "[4.0.4, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "MaterialDesignThemes": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Rg.Plugins.Popup": {
+              "target": "Package",
+              "version": "[2.0.0.10, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[39.32.0, )"
+            },
+            "Syncfusion.Xamarin.SfCarousel": {
+              "target": "Package",
+              "version": "[18.4.0.35, )"
+            },
+            "Syncfusion.Xamarin.SfPdfViewer": {
+              "target": "Package",
+              "version": "[18.4.0.34, )"
+            },
+            "Syncfusion.Xamarin.SfPopupLayout": {
+              "target": "Package",
+              "version": "[18.4.0.34, )"
+            },
+            "Syncfusion.Xamarin.SfSchedule": {
+              "target": "Package",
+              "version": "[18.4.0.34, )"
+            },
+            "ThriveGmbH.BottomNavigationBar.LATEST": {
+              "target": "Package",
+              "version": "[1.0.6, )"
+            },
+            "Xam.Plugins.DownloadManager": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Xamarin.Build.Download": {
+              "target": "Package",
+              "version": "[0.10.0, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.1874, )"
+            },
+            "Xamarin.Forms.GoogleMaps": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Xamarin.Forms.Visual.Material": {
+              "target": "Package",
+              "version": "[5.0.0.1874, )"
+            },
+            "XamarinFastEntry.Behaviors": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "XamarinForms.CardView": {
+              "target": "Package",
+              "version": "[1.1.1.5, )"
+            },
+            "smartystreets-dotnet-sdk": {
+              "target": "Package",
+              "version": "[8.7.1, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.7.335, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:LaundryPickupNYC"
+             x:Class="LaundryPickupNYC.Views.Contact_US">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" BackgroundColor="white">
+            <Frame BackgroundColor="White" Padding="2" CornerRadius="0">
+                <AbsoluteLayout>
+                    <Label Text="Contact" HorizontalTextAlignment="Center" TextColor="#1c2f74" FontSize="18" AbsoluteLayout.LayoutBounds="165,5,75,35"/>
+                    <Image Source="{local:ImageResource LaundryPickupNYC.Images.logosmall.jpeg}" AbsoluteLayout.LayoutBounds="350,0,50,50"
+               HeightRequest="40" />
+                </AbsoluteLayout>
+            </Frame>
+
+            <Label Text="&#x0a;&#x0a;How would you like to contact us?" HorizontalTextAlignment="Start" TextColor="#1c2f74" FontSize="16" AbsoluteLayout.LayoutBounds="165,5,75,35"/>
+
+            <Label Text="" HorizontalTextAlignment="Start" TextColor="#1B6CAD" FontSize="16" AbsoluteLayout.LayoutBounds="165,5,75,35"/>
+            <Image x:Name="phone" Source="phone.png" HeightRequest="56"  BackgroundColor="Transparent" HorizontalOptions="Center">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer
+                Tapped="OnImagePhoneTapped"
+                NumberOfTapsRequired="1" />
+                </Image.GestureRecognizers>
+            </Image>
+            
+            <Label Text="" HorizontalTextAlignment="Start" TextColor="#1B6CAD" FontSize="16" AbsoluteLayout.LayoutBounds="165,5,75,35"/>
+
+            <Image x:Name="text" Source="text.png" HeightRequest="56"  BackgroundColor="Transparent" HorizontalOptions="Center">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer
+                Tapped="OnImageTextTapped"
+                NumberOfTapsRequired="1" />
+                </Image.GestureRecognizers>
+            </Image>
+            
+            <Label Text="" HorizontalTextAlignment="Start" TextColor="#1B6CAD" FontSize="16" AbsoluteLayout.LayoutBounds="165,5,75,35"/>
+
+            <Image x:Name="email" Source="email.png" HeightRequest="56"  BackgroundColor="Transparent" HorizontalOptions="Center">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer
+                Tapped="OnImageEmailTapped"
+                NumberOfTapsRequired="1" />
+                </Image.GestureRecognizers>
+            </Image>
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

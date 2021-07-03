@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MultiButtons</string>
+    <string name="action_settings">Settings</string>
+    <string name="strBlue">Blue</string>
+    <string name="strRed">Red</string>
+    <string name="strYellow">Yellow</string>
+    <string name="strGreen">Green</string>
+    <string name="colors_label">Colors</string>
+    <string name="action_reset">Reset</string>
+    <string name="color_change">Change BackColor</string>
+    <string-array name="colors_array">
+        <item>Black</item>
+        <item>Magenta</item>
+        <item>Cyan</item>
+    </string-array>
+</resources>
