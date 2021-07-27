@@ -68,7 +68,7 @@ namespace LaundryPickupNYC.Views
 
             if (GlobalVar.loggedIn == true)
             {
-                await Navigation.PushModalAsync(new NavigationPage(new Address()));
+                await Navigation.PushModalAsync((new Address()));
             }
             else
             {

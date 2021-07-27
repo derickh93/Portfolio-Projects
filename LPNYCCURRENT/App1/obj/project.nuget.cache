@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wUeys/HTsl6nXZ6LxqRSSDUrbcC7hEMCSDCqMIVPK9BrIgR91Sr4Gug4E844T3fwhWlGlToz+VnUb5IQK4ZcKA==",
+  "dgSpecHash": "nwVqHBg/B35SPy3JazdBFwKNNik8RiFekK7ce69Fb+rNfMQdJ9ARxaXM0QNmZLqFNR4kMYL90ibV/BGVudXZRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\LPNYCCURRENT\\App1\\LaundryPickupNYC.csproj",
+  "projectFilePath": "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\Portfolio-Projects\\LPNYCCURRENT\\App1\\LaundryPickupNYC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cooli\\.nuget\\packages\\firebaseauthentication.net\\3.7.1\\firebaseauthentication.net.3.7.1.nupkg.sha512",
     "C:\\Users\\cooli\\.nuget\\packages\\firebasedatabase.net\\4.0.6\\firebasedatabase.net.4.0.6.nupkg.sha512",

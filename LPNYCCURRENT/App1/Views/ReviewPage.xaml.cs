@@ -32,7 +32,7 @@ namespace LaundryPickupNYC.Views
         {
             //StripeCheckout.PayViaStripePayment(pm);
             var output = StripeCheckout.createInvoice();
-            Navigation.PushModalAsync(new NavigationPage(new ConfirmationPage(output.Number)));
+            Navigation.PushModalAsync(new NavigationPage(new ConfirmationPage(output.Number)),false);
 
         }
     }

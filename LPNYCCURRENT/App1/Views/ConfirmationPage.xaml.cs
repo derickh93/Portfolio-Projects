@@ -16,10 +16,15 @@ namespace LaundryPickupNYC.Views
         public ConfirmationPage(string recNum)
         {
             InitializeComponent();
-            confMsg.Text = "Your order was a success " + GlobalVar.user.firstName+ ". We will see you on " + Transaction.pickupTime.Day.ToString() + ", " + Transaction.pickupTime.ToShortDateString()
+            confMsg.Text = "Your order was a success " + GlobalVar.user.firstName + ". We will see you on " + Transaction.pickupTime.Day.ToString() + ", " + Transaction.pickupTime.ToShortDateString()
                 + " at " + Transaction.pickupTime.ToShortTimeString();
             confNum.Text = "Receipt Number: " + recNum;
-            
+
+        }
+
+        private async void Button_Clicked_1(object sender, EventArgs e)
+        {
+            await Shell.Current.GoToAsync("//home");
         }
     }
 }

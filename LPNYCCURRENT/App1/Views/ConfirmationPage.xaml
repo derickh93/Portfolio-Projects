@@ -15,6 +15,7 @@
             <Label Text="Success!" TextColor="Gold" />
             <Label x:Name="confMsg" TextColor="Gold"></Label>
             <Label x:Name="confNum" TextColor="Gold"></Label>
+            <Button Text="Home" FontSize="Default" Clicked="Button_Clicked_1"  BackgroundColor="#1c2f74" TextColor="#dfbd5c" CornerRadius="5" BorderWidth="2" HorizontalOptions="Start"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

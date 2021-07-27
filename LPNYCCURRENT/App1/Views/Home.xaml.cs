@@ -82,6 +82,7 @@ namespace LaundryPickupNYC.Views
                 getUser(user.LocalId);
 
                 App.Current.MainPage = new AppShellLogged();
+                PopupNavigation.PopAllAsync();
             }
             catch (Exception ex)
             {

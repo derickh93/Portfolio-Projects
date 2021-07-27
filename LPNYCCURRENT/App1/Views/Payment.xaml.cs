@@ -60,7 +60,7 @@ namespace LaundryPickupNYC.Views
 
                 //cardList.ItemsSource = Object_Classes.CollectionHelper.creditCollection;
 
-                Navigation.PushModalAsync(new NavigationPage(new ReviewPage(paymentMethods.Data.ElementAt(i))));
+                Navigation.PushModalAsync(new NavigationPage(new ReviewPage(paymentMethods.Data.ElementAt(i))),false);
 
             }
             else

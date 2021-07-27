@@ -18,7 +18,7 @@ namespace LaundryPickupNYC
 
         public static StripeList<PaymentMethod> loadCards()
         {
-            StripeConfiguration.ApiKey = "sk_test_51Hi7bWEkFqXnuEeNT4n9wpUsPAXBhFX55VP6fnvzLzMLM582cpeqGUpRisqCsbXcQeQsl2I5b4PSm3HhJGHE7sb900HatYoqAQ";
+            StripeConfiguration.ApiKey = "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";
             var options = new PaymentMethodListOptions
             {
                 Customer = GlobalVar.user.customerID,

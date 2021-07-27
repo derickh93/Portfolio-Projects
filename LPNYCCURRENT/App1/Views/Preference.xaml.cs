@@ -22,7 +22,7 @@ namespace LaundryPickupNYC.Views
 
         private async void NavigateButton_OnClicked(object sender, EventArgs e)
         {
-            Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("Mzc0ODEyQDMxMzgyZTM0MmUzMFE4NERZWWpyMDN6UTVJazVXQktCc2dxMlMxSnhGOHdqalo0ZXJiWmMzNFk9");
+            Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("NDY3ODA3QDMxMzkyZTMyMmUzMFZDdEdneGprUHZURHRZUzZhUEdVam9TRGx1MmVlY1haWkhGWWlwVVVQUTg9");
 
             //Create new instance of Schedule
             SfSchedule schedule = new SfSchedule();
@@ -63,7 +63,7 @@ namespace LaundryPickupNYC.Views
             pickPage.Content.HorizontalOptions = LayoutOptions.CenterAndExpand;
             NavigationPage pickUpPage = new NavigationPage(pickPage);
             pickUpPage.BarBackgroundColor = Color.FromHex("#1c2f74");
-            await Navigation.PushModalAsync(pickUpPage);
+            await Navigation.PushModalAsync(pickUpPage,false);
         }
 
         private async void schedule_CellTappedday(object sender, CellTappedEventArgs e)
@@ -98,14 +98,14 @@ namespace LaundryPickupNYC.Views
             pickPage.Content.HorizontalOptions = LayoutOptions.CenterAndExpand;
             NavigationPage pickUpPage = new NavigationPage(pickPage);
             pickUpPage.BarBackgroundColor = Color.FromHex("#1c2f74");
-            await Navigation.PushModalAsync(pickUpPage);
+            await Navigation.PushModalAsync(pickUpPage,false);
         }
 
         private async void schedule_CellTapped(object sender, CellTappedEventArgs e)
         {
             Object_Classes.Transaction.pickupTime = e.Datetime;
             //await App.Current.MainPage.DisplayAlert("Alert", e.Datetime.ToString(), "OK");
-            Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("Mzc0ODEyQDMxMzgyZTM0MmUzMFE4NERZWWpyMDN6UTVJazVXQktCc2dxMlMxSnhGOHdqalo0ZXJiWmMzNFk9");
+            Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("NDY3ODA3QDMxMzkyZTMyMmUzMFZDdEdneGprUHZURHRZUzZhUEdVam9TRGx1MmVlY1haWkhGWWlwVVVQUTg9");
       
             //Create new instance of Schedule
             SfSchedule schedule = new SfSchedule();
@@ -144,7 +144,7 @@ namespace LaundryPickupNYC.Views
             dropPage.Content.HorizontalOptions = LayoutOptions.CenterAndExpand;
             NavigationPage dropOffPage = new NavigationPage(dropPage);
             dropOffPage.BarBackgroundColor = Color.FromHex("#1c2f74");
-            await Navigation.PushModalAsync(dropOffPage);
+            await Navigation.PushModalAsync(dropOffPage,false);
         }
 
         private async void schedule_CellTappedday2(object sender, CellTappedEventArgs e)
@@ -180,7 +180,7 @@ namespace LaundryPickupNYC.Views
                 pickPage.Content.HorizontalOptions = LayoutOptions.CenterAndExpand;
                 NavigationPage pickUpPage = new NavigationPage(pickPage);
                 pickUpPage.BarBackgroundColor = Color.FromHex("#1c2f74");
-                await Navigation.PushModalAsync(pickUpPage);
+                await Navigation.PushModalAsync(pickUpPage,false);
             }
         }
         private async void schedule_CellTapped2(object sender, CellTappedEventArgs e)
@@ -188,7 +188,7 @@ namespace LaundryPickupNYC.Views
             Object_Classes.Transaction.dropoffTime = e.Datetime;
             NavigationPage ccPage = new NavigationPage(new Payment());
             ccPage.BarBackgroundColor = Color.FromHex("#1c2f74");
-            Navigation.PushModalAsync(ccPage);
+            Navigation.PushModalAsync(ccPage,false);
         }
 
         private async void SpecialButton_OnClicked(object sender, EventArgs e)

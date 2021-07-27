@@ -1,0 +1,122 @@
+import React from "react";
+import Slider, { SliderTooltip } from "rc-slider";
+import "rc-slider/assets/index.css";
+import { Form, Button, Card, Alert } from "react-bootstrap";
+
+import washngo from "../Assets/washngo.png";
+
+const { createSliderWithTooltip } = Slider;
+const Range = createSliderWithTooltip(Slider.Range);
+const { Handle } = Slider;
+
+const handle = (props) => {
+  const { value, dragging, index, ...restProps } = props;
+  return (
+    <SliderTooltip
+      prefixCls="rc-slider-tooltip"
+      overlay={`${value} %`}
+      visible={dragging}
+      placement="top"
+      key={index}
+    >
+      <Handle value={value} {...restProps} />
+    </SliderTooltip>
+  );
+};
+
+const wrapperStyle = { width: 400, margin: 50 };
+
+export default function Preferences() {
+  return (
+    <>
+      <div className="homepage">
+        <img className="logo" src={washngo} alt="washngo" />
+      </div>
+
+      <div className="w-100 text-center mt-3">
+        <div>
+          <div>
+            <div style={wrapperStyle}>
+              <p>Detergent Scent</p>
+              <Slider
+                min={0}
+                defaultValue={50}
+                marks={{
+                  0: "No scent",
+                  25: "Light",
+                  50: "Medium",
+                  75: "Heavy",
+                  100: "Sensitive skin",
+                }}
+                step={null}
+              />
+            </div>
+            <div style={wrapperStyle}>
+              <p>Fabric Softener Type</p>
+              <Slider
+                min={0}
+                defaultValue={50}
+                marks={{
+                  20: "No Softener",
+                  50: "Standard",
+                  80: "Premium",
+                }}
+                step={null}
+              />
+            </div>
+            <div style={wrapperStyle}>
+              <p>Whites wash temperature</p>
+              <Slider
+                min={20}
+                defaultValue={50}
+                marks={{ 50: "Cold wash", 100: "Warm wash" }}
+                step={null}
+              />
+            </div>
+            <div style={wrapperStyle}>
+              <p>Whites dryer heat</p>
+              <Slider
+                min={20}
+                defaultValue={50}
+                marks={{ 50: "Cold wash", 100: "Warm wash" }}
+                step={null}
+              />
+            </div>
+
+            <div style={wrapperStyle}>
+              <p>Colors wash temperature</p>
+              <Slider
+                min={20}
+                defaultValue={50}
+                marks={{ 50: "Low", 100: "Regular" }}
+                step={null}
+              />
+            </div>
+
+            <div style={wrapperStyle}>
+              <p>Colors dryer heat</p>
+              <Slider
+                min={20}
+                defaultValue={50}
+                marks={{ 50: "Low", 100: "Regular" }}
+                step={null}
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <Card>
+        <Card.Body>
+          <Form>
+            <Form.Group id="email">
+              <Form.Label>Additional Instructions</Form.Label>
+              <Form.Control type="email" required />
+            </Form.Group>
+          </Form>
+          <div className="w-100 text-center mt-3"></div>
+        </Card.Body>
+      </Card>
+      <div></div>
+    </>
+  );
+}

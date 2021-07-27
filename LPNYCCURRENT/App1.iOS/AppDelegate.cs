@@ -25,7 +25,7 @@ namespace LaundryPickupNYC.iOS
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
             Rg.Plugins.Popup.Popup.Init();
-            Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("Mzc0ODEyQDMxMzgyZTM0MmUzMFE4NERZWWpyMDN6UTVJazVXQktCc2dxMlMxSnhGOHdqalo0ZXJiWmMzNFk9");
+            Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("NDY3ODA3QDMxMzkyZTMyMmUzMFZDdEdneGprUHZURHRZUzZhUEdVam9TRGx1MmVlY1haWkhGWWlwVVVQUTg9");
             global::Xamarin.Forms.Forms.Init();
             new SfCarouselRenderer();
             Syncfusion.SfPdfViewer.XForms.iOS.SfPdfDocumentViewRenderer.Init();

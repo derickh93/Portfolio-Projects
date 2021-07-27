@@ -17,7 +17,7 @@ namespace LaundryPickupNYC.Droid
     {
         protected override void OnCreate(Bundle savedInstanceState)
         {
-            Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("Mzc0ODEyQDMxMzgyZTM0MmUzMFE4NERZWWpyMDN6UTVJazVXQktCc2dxMlMxSnhGOHdqalo0ZXJiWmMzNFk9");
+            Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("NDY3ODA3QDMxMzkyZTMyMmUzMFZDdEdneGprUHZURHRZUzZhUEdVam9TRGx1MmVlY1haWkhGWWlwVVVQUTg9");
 
             TabLayoutResource = Laundry_Pickup_NYC.Droid.Resource.Layout.Tabbar;
             ToolbarResource = Laundry_Pickup_NYC.Droid.Resource.Layout.Toolbar;

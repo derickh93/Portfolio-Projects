@@ -1,4 +1,5 @@
 ﻿using LaundryPickupNYC.Views;
+using Stripe;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -59,19 +60,21 @@ namespace LaundryPickupNYC
 
             }
 
-            //try
-            //{
-            //    string textProds = "products: ";
-            //    for(int i = 0; i < inv.Lines.Data.Count;i++)
-            //    {
-            //        textProds += inv.Lines.Data.ElementAt(i);
-            //    }
-            //    products.Text = textProds;
-            //}
-            //catch
-            //{
-                products.Text = "products: N/A";
-            //}
+            try
+            {
+                string textprods = "Line Item: ";
+                for(int i = 0; i < inv.Lines.Data.Count;i++)
+                {
+                    var service = new ProductService();
+                    textprods += service.Get(inv.Lines.Data.ElementAt(i).Price.ProductId).Description+" | ";           
+                }
+                products.Text = textprods;
+            }
+            catch
+            {
+            products.Text = "products: n/a";
+            }
+
             created.Text = "Invoice Created: " + inv.Created.ToShortDateString();
             amtDue.Text = "Amount Due: $" + inv.AmountDue*.01;
             amtPaid.Text = "Amount Paid: $" + inv.AmountPaid*.01;
@@ -79,6 +82,13 @@ namespace LaundryPickupNYC
             total.Text = "Total: $" + inv.Total*.01;
             paid.Text = "Paid: " + inv.Paid.ToString();
             invNum.Text = "Invoice Number: " + inv.Number;
+
+            string stat = "";
+            inv.Metadata.TryGetValue("Status", out stat);
+            if (inv.Paid == true || stat.Equals("Pickup") || stat.Equals("Scheduled"))
+            {
+                payBalBtn.IsVisible = false;
+            }
         }
 
         private void Button_Clicked(object sender, EventArgs e)

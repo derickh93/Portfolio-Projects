@@ -5680,11 +5680,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\LPNYCCURRENT\\App1.Android\\LaundryPickupNYC.Android.csproj",
+      "projectUniqueName": "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\Portfolio-Projects\\LPNYCCURRENT\\App1.Android\\LaundryPickupNYC.Android.csproj",
       "projectName": "LaundryPickupNYC.Android",
-      "projectPath": "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\LPNYCCURRENT\\App1.Android\\LaundryPickupNYC.Android.csproj",
+      "projectPath": "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\Portfolio-Projects\\LPNYCCURRENT\\App1.Android\\LaundryPickupNYC.Android.csproj",
       "packagesPath": "C:\\Users\\cooli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\LPNYCCURRENT\\App1.Android\\obj\\",
+      "outputPath": "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\Portfolio-Projects\\LPNYCCURRENT\\App1.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -5706,8 +5706,8 @@
       "frameworks": {
         "monoandroid10.0": {
           "projectReferences": {
-            "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\LPNYCCURRENT\\App1\\LaundryPickupNYC.csproj": {
-              "projectPath": "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\LPNYCCURRENT\\App1\\LaundryPickupNYC.csproj"
+            "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\Portfolio-Projects\\LPNYCCURRENT\\App1\\LaundryPickupNYC.csproj": {
+              "projectPath": "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\Portfolio-Projects\\LPNYCCURRENT\\App1\\LaundryPickupNYC.csproj"
             }
           }
         }

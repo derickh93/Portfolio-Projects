@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\LPNYCCURRENT\\App1\\LaundryPickupNYC.csproj": {}
+    "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\Portfolio-Projects\\LPNYCCURRENT\\App1\\LaundryPickupNYC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\LPNYCCURRENT\\App1\\LaundryPickupNYC.csproj": {
+    "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\Portfolio-Projects\\LPNYCCURRENT\\App1\\LaundryPickupNYC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\LPNYCCURRENT\\App1\\LaundryPickupNYC.csproj",
+        "projectUniqueName": "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\Portfolio-Projects\\LPNYCCURRENT\\App1\\LaundryPickupNYC.csproj",
         "projectName": "LaundryPickupNYC",
-        "projectPath": "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\LPNYCCURRENT\\App1\\LaundryPickupNYC.csproj",
+        "projectPath": "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\Portfolio-Projects\\LPNYCCURRENT\\App1\\LaundryPickupNYC.csproj",
         "packagesPath": "C:\\Users\\cooli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\LPNYCCURRENT\\App1\\obj\\",
+        "outputPath": "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\Portfolio-Projects\\LPNYCCURRENT\\App1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

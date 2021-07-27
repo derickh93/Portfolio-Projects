@@ -4933,11 +4933,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\LPNYCCURRENT\\App1.iOS\\LaundryPickupNYC.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\Portfolio-Projects\\LPNYCCURRENT\\App1.iOS\\LaundryPickupNYC.iOS.csproj",
       "projectName": "LaundryPickupNYC.iOS",
-      "projectPath": "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\LPNYCCURRENT\\App1.iOS\\LaundryPickupNYC.iOS.csproj",
+      "projectPath": "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\Portfolio-Projects\\LPNYCCURRENT\\App1.iOS\\LaundryPickupNYC.iOS.csproj",
       "packagesPath": "C:\\Users\\cooli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\LPNYCCURRENT\\App1.iOS\\obj\\",
+      "outputPath": "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\Portfolio-Projects\\LPNYCCURRENT\\App1.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -4959,8 +4959,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\LPNYCCURRENT\\App1\\LaundryPickupNYC.csproj": {
-              "projectPath": "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\LPNYCCURRENT\\App1\\LaundryPickupNYC.csproj"
+            "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\Portfolio-Projects\\LPNYCCURRENT\\App1\\LaundryPickupNYC.csproj": {
+              "projectPath": "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\Portfolio-Projects\\LPNYCCURRENT\\App1\\LaundryPickupNYC.csproj"
             }
           }
         }

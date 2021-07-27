@@ -1,0 +1,121 @@
+import React, { useState, useEffect } from "react";
+import washngo from "../Assets/washngo.png";
+import styled from "styled-components";
+import DatePicker from "react-horizontal-datepicker";
+import { TimePicker } from "./SchedulePage/TimePicker";
+import { useHistory } from "react-router-dom";
+
+import Slider, { Range } from "rc-slider";
+import "rc-slider/assets/index.css";
+
+export default function Time() {
+  const [showPU, setShowPU] = useState("visible");
+  const [pickUpDate, setPickUpDate] = useState("");
+  const [pickUpTime, setPickUpTime] = useState("");
+
+  const [firstTimeSlot, setFirstTimeSlot] = useState("9am - 12pm");
+  const [secondTimeSlot, setSecondTimeSlot] = useState("12pm - 3pm");
+  const [thirdTimeSlot, setThirdTimeSlot] = useState("3pm - 6pm");
+
+  const history = useHistory();
+
+  const style = {
+    float: "left",
+    width: 160,
+    height: 400,
+    marginBottom: 160,
+    marginLeft: 50,
+  };
+
+  const marks = {
+    75: {
+      style: {
+        color: "#336daf",
+      },
+      label: <strong>9am - 12pm</strong>,
+    },
+
+    50: {
+      style: {
+        color: "#336daf",
+      },
+      label: <strong>12pm - 3pm</strong>,
+    },
+
+    25: {
+      style: {
+        color: "#336daf",
+      },
+      label: <strong>3pm - 6pm</strong>,
+    },
+
+    0: {
+      style: {
+        color: "black",
+      },
+      label: <strong>6pm - 9pm</strong>,
+    },
+  };
+
+  const PUTimePicker = styled(TimePicker)`
+    font-weight: bold;
+    visibility: ${showPU};
+    cursor: pointer;
+  `;
+
+  const selectedDay = (val) => {
+    console.log(val);
+    setPickUpDate(val);
+  };
+
+  async function nextPage() {
+    try {
+      history.push("/products");
+    } catch (err) {
+      console.log(err.message);
+    }
+  }
+
+  return (
+    <>
+      <div className="homepage">
+        <img className="logo" src={washngo} alt="washngo" />
+      </div>
+
+      <div className="w-100 text-center mt-3">
+        <DatePicker
+          getSelectedDay={selectedDay}
+          endDate={100}
+          selectDate={pickUpDate}
+          labelFormat={"MMMM"}
+          color={"#61b258"}
+        />
+        <div
+          style={{
+            justifyContent: "center",
+            alignItems: "center",
+            display: "flex",
+          }}
+        >
+          <div style={{ paddingTop: "75px" }}>
+            <div style={style}>
+              <Slider
+                vertical
+                min={0}
+                max={75}
+                marks={marks}
+                step={25}
+                included={false}
+                defaultValue={0}
+                activeDotStyle={{ borderColor: "yellow" }}
+                dotStyle={{ borderColor: "yellow" }}
+                railStyle={{ backgroundColor: "#61b258" }}
+              />
+            </div>
+          </div>
+        </div>
+        <PUTimePicker onClick={nextPage}>Next</PUTimePicker>
+      </div>
+    </>
+  );
+}

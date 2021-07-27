@@ -20,7 +20,7 @@ namespace LaundryPickupNYC.Views
             NavigationPage.SetHasNavigationBar(this, false);
             Init();
             InitializeComponent();
-            animate_Clicked(null, null);
+            //animate_Clicked(null, null);
             BindingContext = this;
             Button_Clicked(null, null);
             StartTimer();

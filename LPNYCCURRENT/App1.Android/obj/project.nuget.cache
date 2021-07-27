@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9fO62/LnUeg42wBs+HmF4SqFaHbyrkWT9q1lojZOLgh05E56ctMACUozEAv4svujkfrr5q4th+e4yNlXjD6oAg==",
+  "dgSpecHash": "LJZlNduP+BlRmNXU6Y96Qz6N9HR6Rj9JqZ4liIAh7GXTBXgjS88I1rJ0Xsi80aEXKPve0ApJnbNbv6GHSzaF5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\LPNYCCURRENT\\App1.Android\\LaundryPickupNYC.Android.csproj",
+  "projectFilePath": "C:\\Users\\cooli\\Desktop\\Working Folder(Master)\\Portfolio-Projects\\LPNYCCURRENT\\App1.Android\\LaundryPickupNYC.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cooli\\.nuget\\packages\\bottomnavigationbar\\1.1.2\\bottomnavigationbar.1.1.2.nupkg.sha512",
     "C:\\Users\\cooli\\.nuget\\packages\\firebaseauthentication.net\\3.7.1\\firebaseauthentication.net.3.7.1.nupkg.sha512",

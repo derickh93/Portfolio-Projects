@@ -39,7 +39,7 @@ namespace LaundryPickupNYC.Views
         if (answer)
         {
                 Object_Classes.Transaction.address = Object_Classes.CollectionHelper.addressCollection.ElementAt(i);
-                await Navigation.PushModalAsync(new NavigationPage(new Preference()));
+                await Navigation.PushModalAsync(new Preference(),false);
 
             }
             else
@@ -50,7 +50,7 @@ namespace LaundryPickupNYC.Views
 
     private async void NavigateButton_OnClicked(object sender, EventArgs e)
         {
-            await Navigation.PushModalAsync(new NavigationPage(new Preference()));
+            await Navigation.PushAsync(new Preference());
         }
 
         private void ClickToShowPopup_Clicked(object sender, EventArgs e)

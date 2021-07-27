@@ -17,9 +17,9 @@
     <None Remove="Images\faq.png" />
     <None Remove="Images\home.png" />
     <None Remove="Images\howitworks.png" />
-    <None Remove="Images\howone.png" />
-    <None Remove="Images\howthree.png" />
-    <None Remove="Images\howtwo.png" />
+    <None Remove="Images\howone.PNG" />
+    <None Remove="Images\howthree.PNG" />
+    <None Remove="Images\howtwo.PNG" />
     <None Remove="Images\image1.jpg" />
     <None Remove="Images\image2.jpg" />
     <None Remove="Images\image3.jpg" />
@@ -43,9 +43,9 @@
     <EmbeddedResource Include="Images\faq.png" />
     <EmbeddedResource Include="Images\home.png" />
     <EmbeddedResource Include="Images\howitworks.png" />
-    <EmbeddedResource Include="Images\howone.png" />
-    <EmbeddedResource Include="Images\howthree.png" />
-    <EmbeddedResource Include="Images\howtwo.png" />
+    <EmbeddedResource Include="Images\howone.PNG" />
+    <EmbeddedResource Include="Images\howthree.PNG" />
+    <EmbeddedResource Include="Images\howtwo.PNG" />
     <EmbeddedResource Include="Images\logo.jpg" />
     <EmbeddedResource Include="Images\logosmall.jpeg" />
     <EmbeddedResource Include="Images\logosmall.png" />
